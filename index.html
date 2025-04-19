@@ -59,7 +59,7 @@
 
       Promise.all([
         fetch("nodes.json").then((r) => r.json()),
-        fetch("edges.json").then((r) => r.json()),
+        fetch("edges_medium.json").then((r) => r.json()),
       ]).then(([nodesData, edgesData]) => {
         const original = nodesData;
 
