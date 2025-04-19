@@ -49,7 +49,7 @@
     </style>
   </head>
   <body>
-    <div class="title-box">CLUSTERED BY ART MEDIUM</div>
+    <div class="title-box">CLUSTERED BY ART MEDIUMS</div>
     <div id="mynetwork"></div>
     <div id="popup" class="popup"></div>
 
@@ -59,7 +59,7 @@
 
       Promise.all([
         fetch("nodes.json").then((r) => r.json()),
-        fetch("edges.json").then((r) => r.json())
+        fetch("edges.json").then((r) => r.json()),
       ]).then(([nodesData, edgesData]) => {
         const original = nodesData;
 
@@ -68,7 +68,7 @@
             id: n.id,
             shape: "text",
             label: "*",
-            font: { size: 24, face: "monospace", color: "#fff" }
+            font: { size: 24, face: "monospace", color: "#fff" },
           }))
         );
 
@@ -79,7 +79,7 @@
           edges: {
             color: { color: "rgba(255,255,255,0.2)", highlight: "#fff" },
             width: 1,
-            smooth: false
+            smooth: false,
           },
           layout: { improvedLayout: true },
           physics: {
@@ -88,10 +88,10 @@
               gravitationalConstant: -80,
               springLength: 140,
               springConstant: 0.08,
-              damping: 0.45
+              damping: 0.45,
             },
-            stabilization: { enabled: true, iterations: 1200 }
-          }
+            stabilization: { enabled: true, iterations: 1200 },
+          },
         };
 
         const network = new vis.Network(container, { nodes, edges }, options);
@@ -138,7 +138,7 @@
             id: origNode.id,
             shape: "text",
             label: "*",
-            font: { size: 24, face: "monospace", color: "#fff" }
+            font: { size: 24, face: "monospace", color: "#fff" },
           });
           hidePopup();
         });
