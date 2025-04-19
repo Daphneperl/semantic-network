@@ -6,90 +6,142 @@
 
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.css"
+      href="https://unpkg.com/vis-network@9.1.2/dist/vis-network.min.css"
     />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/vis-network.min.js"></script>
+    <script src="https://unpkg.com/vis-network@9.1.2/dist/vis-network.min.js"></script>
 
     <style>
+      body {
+        margin: 0;
+        font-family: monospace;
+        background-color: #2b2b2b;
+        color: white;
+      }
       #mynetwork {
         width: 100%;
-        height: 900px;
+        height: 100vh;
         background-color: #2b2b2b;
-        border: 1px solid lightgray;
       }
-    </style>
-  </head>
-
-  <body>
-    <div
-      style="
+      .title-box {
         position: fixed;
         top: 20px;
         left: 20px;
         font-size: 24px;
-        font-family: monospace;
-        color: #ffffff;
-        background-color: rgba(0, 0, 0, 0.4);
+        color: #fff;
+        background: rgba(0, 0, 0, 0.4);
         padding: 8px 12px;
         border-radius: 4px;
-        z-index: 9999;
-      "
-    >
-      CLUSTERED BY ART MEDIUM
-    </div>
-
+        z-index: 2;
+      }
+      .popup {
+        position: absolute;
+        display: none;
+        background: #f5f4ed;
+        border: 1px solid #808074;
+        border-radius: 3px;
+        padding: 10px;
+        max-width: 320px;
+        box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+        z-index: 3;
+        color: #000;
+        font-size: 13px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="title-box">CLUSTERED BY ART MEDIUM</div>
     <div id="mynetwork"></div>
+    <div id="popup" class="popup"></div>
 
     <script>
       const container = document.getElementById("mynetwork");
+      const popup = document.getElementById("popup");
 
-      // Fetch nodes and edges data
       Promise.all([
-        fetch("nodes.json").then((res) => res.json()),
-        fetch("edges.json").then((res) => res.json()),
+        fetch("nodes.json").then((r) => r.json()),
+        fetch("edges.json").then((r) => r.json())
       ]).then(([nodesData, edgesData]) => {
-        const nodes = new vis.DataSet(nodesData);
+        const original = nodesData;
+
+        const nodes = new vis.DataSet(
+          original.map((n) => ({
+            id: n.id,
+            shape: "text",
+            label: "*",
+            font: { size: 24, face: "monospace", color: "#fff" }
+          }))
+        );
+
         const edges = new vis.DataSet(edgesData);
 
-        const data = { nodes, edges };
-
         const options = {
-          nodes: {
-            shape: "image",
-            size: 30,
-          },
+          interaction: { hover: true },
           edges: {
-            color: {
-              color: "rgba(255,255,255,0.2)",
-              highlight: "white",
-            },
+            color: { color: "rgba(255,255,255,0.2)", highlight: "#fff" },
             width: 1,
-            smooth: false,
+            smooth: false
           },
-          layout: {
-            improvedLayout: true,
-          },
+          layout: { improvedLayout: true },
           physics: {
-            enabled: true,
             solver: "forceAtlas2Based",
             forceAtlas2Based: {
               gravitationalConstant: -80,
-              centralGravity: 0.02,
               springLength: 140,
               springConstant: 0.08,
-              damping: 0.45,
+              damping: 0.45
             },
-            minVelocity: 0.3,
-            stabilization: {
-              enabled: true,
-              iterations: 1200,
-              updateInterval: 50,
-              fit: true,
-            },
-          },
+            stabilization: { enabled: true, iterations: 1200 }
+          }
         };
 
-        const network = new vis.Network(container, data, options);
+        const network = new vis.Network(container, { nodes, edges }, options);
+
+        function showPopup(nodeId) {
+          const nodeData = original.find((n) => n.id === nodeId);
+          if (!nodeData) return;
+
+          popup.innerHTML = `
+            <div style="display: flex; flex-direction: column;">
+              <img src="${nodeData.image}" style="width: 100%; max-width: 320px; border-radius: 4px; margin-bottom: 8px;" />
+              <div style="font-size: 13px; white-space: normal; word-wrap: break-word; max-width: 320px;">
+                <b>Creator:</b> ${nodeData.creator}<br>
+                <b>Date:</b> ${nodeData.date}<br>
+                <b>Description:</b> ${nodeData.description}<br>
+                <b>Keywords:</b><br>${nodeData.keywords}<br>
+                <b>Medium:</b> ${nodeData.medium}
+              </div>
+            </div>
+          `;
+
+          const posCanvas = network.getPositions([nodeId])[nodeId];
+          const bbox = network.getBoundingBox(nodeId);
+          posCanvas.x = posCanvas.x + 0.5 * (bbox.right - bbox.left);
+          const posDOM = network.canvasToDOM(posCanvas);
+
+          popup.style.left = posDOM.x + 10 + "px";
+          popup.style.top = posDOM.y - 20 + "px";
+          popup.style.display = "block";
+        }
+
+        function hidePopup() {
+          popup.style.display = "none";
+        }
+
+        network.on("hoverNode", (params) => {
+          showPopup(params.node);
+        });
+
+        network.on("blurNode", (params) => {
+          const origNode = original.find((n) => n.id === params.node);
+          if (!origNode) return;
+          nodes.update({
+            id: origNode.id,
+            shape: "text",
+            label: "*",
+            font: { size: 24, face: "monospace", color: "#fff" }
+          });
+          hidePopup();
+        });
       });
     </script>
   </body>

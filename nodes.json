@@ -1,552 +1,1212 @@
 [
   {
-    "id": "0060_1iqp2ik.jpeg",
+    "id": "0000_1k0fueb.jpeg",
+    "label": "*",
     "shape": "image",
-    "image": "extracted_images_new/0060_1iqp2ik.jpeg"
-  },
-  {
-    "id": "0052_1iwylen.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0052_1iwylen.jpeg"
-  },
-  {
-    "id": "0021_1jkzlqt.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0021_1jkzlqt.jpeg"
-  },
-  {
-    "id": "0063_1iofrsw.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0063_1iofrsw.jpeg"
-  },
-  {
-    "id": "0097_1hyssuc.png",
-    "shape": "image",
-    "image": "extracted_images_new/0097_1hyssuc.png"
-  },
-  {
-    "id": "0094_1i12rva.png",
-    "shape": "image",
-    "image": "extracted_images_new/0094_1i12rva.png"
-  },
-  {
-    "id": "0051_1ixriol.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0051_1ixriol.jpeg"
-  },
-  {
-    "id": "0104_1htbaqc.png",
-    "shape": "image",
-    "image": "extracted_images_new/0104_1htbaqc.png"
-  },
-  {
-    "id": "0084_1i8s1ym.png",
-    "shape": "image",
-    "image": "extracted_images_new/0084_1i8s1ym.png"
-  },
-  {
-    "id": "0056_1itv2ta.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0056_1itv2ta.jpeg"
-  },
-  {
-    "id": "0085_1i801kr.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0085_1i801kr.jpeg"
-  },
-  {
-    "id": "0105_1hsj4vn.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0105_1hsj4vn.jpeg"
-  },
-  {
-    "id": "0049_1izcc2o.png",
-    "shape": "image",
-    "image": "extracted_images_new/0049_1izcc2o.png"
-  },
-  {
-    "id": "0003_1jy3gd0.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0003_1jy3gd0.jpeg"
-  },
-  {
-    "id": "0108_1hqbnko.png",
-    "shape": "image",
-    "image": "extracted_images_new/0108_1hqbnko.png"
-  },
-  {
-    "id": "0039_1j73nyb.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0039_1j73nyb.jpeg"
-  },
-  {
-    "id": "0025_1jhv2yv.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0025_1jhv2yv.jpeg"
-  },
-  {
-    "id": "0083_1i9jsyx.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0083_1i9jsyx.jpeg"
-  },
-  {
-    "id": "0087_1i6fabf.png",
-    "shape": "image",
-    "image": "extracted_images_new/0087_1i6fabf.png"
-  },
-  {
-    "id": "0079_1icqgd1.png",
-    "shape": "image",
-    "image": "extracted_images_new/0079_1icqgd1.png"
-  },
-  {
-    "id": "0014_1jpk3vo.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0014_1jpk3vo.jpeg"
-  },
-  {
-    "id": "0103_1hu3jkp.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0103_1hu3jkp.jpeg"
-  },
-  {
-    "id": "0086_1i77rxp.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0086_1i77rxp.jpeg"
-  },
-  {
-    "id": "0107_1hr023p.png",
-    "shape": "image",
-    "image": "extracted_images_new/0107_1hr023p.png"
-  },
-  {
-    "id": "0036_1j9frkt.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0036_1j9frkt.jpeg"
-  },
-  {
-    "id": "0054_1ivfhea.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0054_1ivfhea.jpeg"
-  },
-  {
-    "id": "0065_1imv7c1.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0065_1imv7c1.jpeg"
-  },
-  {
-    "id": "0011_1jrza0a.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0011_1jrza0a.jpeg"
-  },
-  {
-    "id": "0061_1ipy97k.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0061_1ipy97k.jpeg"
-  },
-  {
-    "id": "0067_1ilbity.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0067_1ilbity.jpeg"
-  },
-  {
-    "id": "0037_1j8mfw1.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0037_1j8mfw1.jpeg"
-  },
-  {
-    "id": "0064_1innlws.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0064_1innlws.jpeg"
-  },
-  {
-    "id": "0002_1jyubci.png",
-    "shape": "image",
-    "image": "extracted_images_new/0002_1jyubci.png"
-  },
-  {
-    "id": "0042_1j4s5b9.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0042_1j4s5b9.jpeg"
-  },
-  {
-    "id": "0101_1hvo64l.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0101_1hvo64l.jpeg"
-  },
-  {
-    "id": "0059_1irgi1d.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0059_1irgi1d.jpeg"
-  },
-  {
-    "id": "0081_1ib4woo.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0081_1ib4woo.jpeg"
+    "image": "images/0000_1k0fueb.jpeg",
+    "creator": "KV-broad-sky",
+    "date": "2025-04-16",
+    "description": "A pen-and-ink drawing of a shopping basket containing oil, a lottery ticket, and other labeled products.",
+    "keywords": "shopping,basket,lottery,oil,pen,surreal",
+    "medium": "Pen and ink drawing"
   },
   {
     "id": "0001_1jzn6wh.jpeg",
+    "label": "*",
     "shape": "image",
-    "image": "extracted_images_new/0001_1jzn6wh.jpeg"
+    "image": "images/0001_1jzn6wh.jpeg",
+    "creator": "KV-broad-sky",
+    "date": "2025-04-15",
+    "description": "A split portrait of a military and civilian figure with the phrase 'YOU NEVER KNOW, TALK LESS' above.",
+    "keywords": "portrait,split,uniform,hat,text,contrast",
+    "medium": "Pen and ink drawing"
   },
   {
-    "id": "0034_1jazkqj.jpeg",
+    "id": "0002_1jyubci.png",
+    "label": "*",
     "shape": "image",
-    "image": "extracted_images_new/0034_1jazkqj.jpeg"
+    "image": "images/0002_1jyubci.png",
+    "creator": "Dessineur",
+    "date": "2025-04-14",
+    "description": "A stylized digital meme showing a woman yelling and pointing at a confused cat behind a dinner plate.",
+    "keywords": "cat,yelling,meme,dinner,woman,confusion",
+    "medium": "Digital sketch illustration"
   },
   {
-    "id": "0032_1jchdif.jpeg",
+    "id": "0003_1jy3gd0.jpeg",
+    "label": "*",
     "shape": "image",
-    "image": "extracted_images_new/0032_1jchdif.jpeg"
-  },
-  {
-    "id": "0009_1jtgsg6.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0009_1jtgsg6.jpeg"
-  },
-  {
-    "id": "0017_1jnyu0h.png",
-    "shape": "image",
-    "image": "extracted_images_new/0017_1jnyu0h.png"
-  },
-  {
-    "id": "0019_1jmi7q9.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0019_1jmi7q9.jpeg"
-  },
-  {
-    "id": "0035_1ja7o6v.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0035_1ja7o6v.jpeg"
-  },
-  {
-    "id": "0022_1jk7e57.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0022_1jk7e57.jpeg"
-  },
-  {
-    "id": "0024_1jimb7d.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0024_1jimb7d.jpeg"
-  },
-  {
-    "id": "0089_1i4v8tm.png",
-    "shape": "image",
-    "image": "extracted_images_new/0089_1i4v8tm.png"
-  },
-  {
-    "id": "0088_1i5mvxf.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0088_1i5mvxf.jpeg"
-  },
-  {
-    "id": "0044_1j37fgg.png",
-    "shape": "image",
-    "image": "extracted_images_new/0044_1j37fgg.png"
-  },
-  {
-    "id": "0033_1jbr0ql.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0033_1jbr0ql.jpeg"
-  },
-  {
-    "id": "0008_1ju9213.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0008_1ju9213.jpeg"
-  },
-  {
-    "id": "0055_1iunfvk.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0055_1iunfvk.jpeg"
-  },
-  {
-    "id": "0073_1iglqe4.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0073_1iglqe4.jpeg"
-  },
-  {
-    "id": "0091_1i3d21b.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0091_1i3d21b.jpeg"
-  },
-  {
-    "id": "0012_1jr7eq0.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0012_1jr7eq0.jpeg"
-  },
-  {
-    "id": "0026_1jh4ays.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0026_1jh4ays.jpeg"
-  },
-  {
-    "id": "0048_1j049zw.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0048_1j049zw.jpeg"
-  },
-  {
-    "id": "0099_1hx9j9o.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0099_1hx9j9o.jpeg"
-  },
-  {
-    "id": "0095_1i0ap55.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0095_1i0ap55.jpeg"
-  },
-  {
-    "id": "0082_1iaap34.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0082_1iaap34.jpeg"
-  },
-  {
-    "id": "0040_1j6e0sj.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0040_1j6e0sj.jpeg"
-  },
-  {
-    "id": "0030_1je0lx3.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0030_1je0lx3.jpeg"
-  },
-  {
-    "id": "0070_1iiz4f3.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0070_1iiz4f3.jpeg"
-  },
-  {
-    "id": "0092_1i2lmgk.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0092_1i2lmgk.jpeg"
-  },
-  {
-    "id": "0069_1ijrm00.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0069_1ijrm00.jpeg"
-  },
-  {
-    "id": "0000_1k0fueb.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0000_1k0fueb.jpeg"
-  },
-  {
-    "id": "0075_1if8qvm.png",
-    "shape": "image",
-    "image": "extracted_images_new/0075_1if8qvm.png"
-  },
-  {
-    "id": "0106_1hrqg1k.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0106_1hrqg1k.jpeg"
-  },
-  {
-    "id": "0093_1i1u6o0.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0093_1i1u6o0.jpeg"
-  },
-  {
-    "id": "0016_1jor2cv.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0016_1jor2cv.jpeg"
-  },
-  {
-    "id": "0072_1ihec5r.png",
-    "shape": "image",
-    "image": "extracted_images_new/0072_1ihec5r.png"
-  },
-  {
-    "id": "0028_1jfkkpz.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0028_1jfkkpz.jpeg"
-  },
-  {
-    "id": "0020_1jlqqxx.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0020_1jlqqxx.jpeg"
-  },
-  {
-    "id": "0076_1if36o8.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0076_1if36o8.jpeg"
-  },
-  {
-    "id": "0071_1ii6pv2.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0071_1ii6pv2.jpeg"
-  },
-  {
-    "id": "0043_1j3zphs.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0043_1j3zphs.jpeg"
-  },
-  {
-    "id": "0090_1i44ejz.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0090_1i44ejz.jpeg"
-  },
-  {
-    "id": "0029_1jeso6i.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0029_1jeso6i.jpeg"
-  },
-  {
-    "id": "0005_1jwlcs4.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0005_1jwlcs4.jpeg"
+    "image": "images/0003_1jy3gd0.jpeg",
+    "creator": "KV-broad-sky",
+    "date": "2025-04-13",
+    "description": "A realistic ink sketch of a human hand acting like a puppet controller with threads attached to fingers.",
+    "keywords": "hand,puppet,strings,fingers,sketch,control",
+    "medium": "Ballpoint or fine ink sketch"
   },
   {
     "id": "0004_1jxd2md.png",
+    "label": "*",
     "shape": "image",
-    "image": "extracted_images_new/0004_1jxd2md.png"
+    "image": "images/0004_1jxd2md.png",
+    "creator": "Dessineur",
+    "date": "2025-04-12",
+    "description": "A minimalist digital drawing of a burning cigarette with elegant swirling smoke rising upward.",
+    "keywords": "cigarette,smoke,minimal,death,warning,digital",
+    "medium": "Digital vector-style drawing"
   },
   {
-    "id": "0058_1is9ais.jpeg",
+    "id": "0005_1jwlcs4.jpeg",
+    "label": "*",
     "shape": "image",
-    "image": "extracted_images_new/0058_1is9ais.jpeg"
-  },
-  {
-    "id": "0102_1huvo9b.png",
-    "shape": "image",
-    "image": "extracted_images_new/0102_1huvo9b.png"
-  },
-  {
-    "id": "0098_1hy14ib.png",
-    "shape": "image",
-    "image": "extracted_images_new/0098_1hy14ib.png"
-  },
-  {
-    "id": "0066_1im2osq.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0066_1im2osq.jpeg"
-  },
-  {
-    "id": "0015_1jox6x0.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0015_1jox6x0.jpeg"
-  },
-  {
-    "id": "0046_1j1njqz.png",
-    "shape": "image",
-    "image": "extracted_images_new/0046_1j1njqz.png"
-  },
-  {
-    "id": "0057_1it1zqy.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0057_1it1zqy.jpeg"
-  },
-  {
-    "id": "0078_1idjoxg.png",
-    "shape": "image",
-    "image": "extracted_images_new/0078_1idjoxg.png"
-  },
-  {
-    "id": "0018_1jn8fq7.png",
-    "shape": "image",
-    "image": "extracted_images_new/0018_1jn8fq7.png"
-  },
-  {
-    "id": "0077_1iebgz8.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0077_1iebgz8.jpeg"
-  },
-  {
-    "id": "0047_1j0w6qv.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0047_1j0w6qv.jpeg"
-  },
-  {
-    "id": "0045_1j2fbpx.png",
-    "shape": "image",
-    "image": "extracted_images_new/0045_1j2fbpx.png"
-  },
-  {
-    "id": "0031_1jd88sv.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0031_1jd88sv.jpeg"
-  },
-  {
-    "id": "0109_1hpk0r4.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0109_1hpk0r4.jpeg"
-  },
-  {
-    "id": "0053_1iw6upu.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0053_1iw6upu.jpeg"
-  },
-  {
-    "id": "0050_1iyk4ec.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0050_1iyk4ec.jpeg"
-  },
-  {
-    "id": "0041_1j5k3po.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0041_1j5k3po.jpeg"
-  },
-  {
-    "id": "0023_1jjf0wi.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0023_1jjf0wi.jpeg"
-  },
-  {
-    "id": "0080_1iby8fx.png",
-    "shape": "image",
-    "image": "extracted_images_new/0080_1iby8fx.png"
-  },
-  {
-    "id": "0013_1jqdim6.png",
-    "shape": "image",
-    "image": "extracted_images_new/0013_1jqdim6.png"
-  },
-  {
-    "id": "0007_1jv18z2.png",
-    "shape": "image",
-    "image": "extracted_images_new/0007_1jv18z2.png"
-  },
-  {
-    "id": "0100_1hwgnjx.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0100_1hwgnjx.jpeg"
-  },
-  {
-    "id": "0062_1ip7aqr.jpeg",
-    "shape": "image",
-    "image": "extracted_images_new/0062_1ip7aqr.jpeg"
+    "image": "images/0005_1jwlcs4.jpeg",
+    "creator": "KV-broad-sky",
+    "date": "2025-04-11",
+    "description": "A pen sketch of a cup holding three paint brushes, rendered with crosshatching on sketchbook paper.",
+    "keywords": "paintbrushes,cup,sketch,tools,art,pen",
+    "medium": "Pen on sketchbook paper"
   },
   {
     "id": "0006_1jvtd2b.jpeg",
+    "label": "*",
     "shape": "image",
-    "image": "extracted_images_new/0006_1jvtd2b.jpeg"
+    "image": "images/0006_1jvtd2b.jpeg",
+    "creator": "chaths",
+    "date": "2025-04-10",
+    "description": "A digital concept sheet depicting various fantasy-styled ancient homes, including skull dwellings.",
+    "keywords": "ancient,homes,skulls,huts,architecture,fantasy",
+    "medium": "Digital concept illustration"
   },
   {
-    "id": "0074_1ifu2yu.png",
+    "id": "0007_1jv18z2.png",
+    "label": "*",
     "shape": "image",
-    "image": "extracted_images_new/0074_1ifu2yu.png"
+    "image": "images/0007_1jv18z2.png",
+    "creator": "Faexinna",
+    "date": "2025-04-09",
+    "description": "A cozy underground mouse home with a curled-up mouse sipping tea and a sprouting plant above.",
+    "keywords": "mouse,burrow,cozy,tea,spring,nature",
+    "medium": "Digital textured illustration"
   },
   {
-    "id": "0068_1ikk13a.jpeg",
+    "id": "0008_1ju9213.jpeg",
+    "label": "*",
     "shape": "image",
-    "image": "extracted_images_new/0068_1ikk13a.jpeg"
+    "image": "images/0008_1ju9213.jpeg",
+    "creator": "KV-broad-sky",
+    "date": "2025-04-08",
+    "description": "A dense, fantastical landscape pen drawing featuring stairs, trees, clouds, and a lone girl facing it all.",
+    "keywords": "fantasy,stairs,landscape,trees,path,girl",
+    "medium": "Ink drawing with fine linework"
+  },
+  {
+    "id": "0009_1jtgsg6.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0009_1jtgsg6.jpeg",
+    "creator": "chao_chucao",
+    "date": "2025-04-07",
+    "description": "A minimalist vector-style drawing of a hand making a shadow puppet that forms a dog's head.",
+    "keywords": "hand,shadow,puppet,dog,vector,light",
+    "medium": "Flat vector illustration"
   },
   {
     "id": "0010_1jspwr5.png",
+    "label": "*",
     "shape": "image",
-    "image": "extracted_images_new/0010_1jspwr5.png"
+    "image": "images/0010_1jspwr5.png",
+    "creator": "DreamLearnBuildBurn",
+    "date": "2025-04-06",
+    "description": "A colorful digital painting of two hands holding styluses in a dramatic pose against a vivid sky.",
+    "keywords": "hands,stylus,sky,colorful,digital,symbolic",
+    "medium": "Digital painting"
+  },
+  {
+    "id": "0011_1jrza0a.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0011_1jrza0a.jpeg",
+    "creator": "chaths",
+    "date": "2025-04-05",
+    "description": "A digital sketchbook-style page filled with hand gesture studies and humorous notes.",
+    "keywords": "hands,sketch,gesture,study,notes,drawing",
+    "medium": "Digital sketch illustration"
+  },
+  {
+    "id": "0012_1jr7eq0.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0012_1jr7eq0.jpeg",
+    "creator": "KV-broad-sky",
+    "date": "2025-04-04",
+    "description": "A finely detailed ink drawing of a lighthouse built on a tiny island, surrounded by calm water.",
+    "keywords": "lighthouse,island,ink,clouds,ocean,sketch",
+    "medium": "Ink drawing with watercolor texture"
+  },
+  {
+    "id": "0013_1jqdim6.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0013_1jqdim6.png",
+    "creator": "Dessineur",
+    "date": "2025-04-03",
+    "description": "Two cartoon birds (a penguin and a seagull) are heavily armed with RPGs and guns in an action pose.",
+    "keywords": "birds,weapons,cartoon,absurd,action,digital",
+    "medium": "Digital cartoon illustration"
+  },
+  {
+    "id": "0014_1jpk3vo.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0014_1jpk3vo.jpeg",
+    "creator": "chaths",
+    "date": "2025-04-02",
+    "description": "A character sheet of various cartoon sharks, each with unique outfits and expressions.",
+    "keywords": "sharks,cute,characters,sketch,fun,concept",
+    "medium": "Digital character concept"
+  },
+  {
+    "id": "0015_1jox6x0.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0015_1jox6x0.jpeg",
+    "creator": "RealEnergy1889",
+    "date": "2025-04-02",
+    "description": "A photo of a painting in progress of a green iguana on a pink canvas in a kitchen setting.",
+    "keywords": "iguana,painting,canvas,photo,brush,studio",
+    "medium": "Acrylic painting (photo)"
+  },
+  {
+    "id": "0016_1jor2cv.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0016_1jor2cv.jpeg",
+    "creator": "redguy1976",
+    "date": "2025-04-01",
+    "description": "A minimalist monochrome painting of a retro switchboard or tech panel with subtle shading.",
+    "keywords": "retro,switch,monochrome,tech,vintage,device",
+    "medium": "Monochrome digital painting"
+  },
+  {
+    "id": "0017_1jnyu0h.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0017_1jnyu0h.png",
+    "creator": "DreamLearnBuildBurn",
+    "date": "2025-03-31",
+    "description": "Two people wearing snow gear and framed by snowshoes; watercolor textures and bold outlines.",
+    "keywords": "snow,snowshoes,adventure,cold,travel,gear",
+    "medium": "Digital illustration with watercolor effect"
+  },
+  {
+    "id": "0018_1jn8fq7.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0018_1jn8fq7.png",
+    "creator": "Dessineur",
+    "date": "2025-03-30",
+    "description": "A fidget spinner designed like a UFO beams light over a forest at night.",
+    "keywords": "ufo,forest,night,beams,sci-fi,spinner",
+    "medium": "Digital sci-fi illustration"
+  },
+  {
+    "id": "0019_1jmi7q9.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0019_1jmi7q9.jpeg",
+    "creator": "chaths",
+    "date": "2025-03-29",
+    "description": "Sketchbook page of a city building, cubes, a USB plug, and a jeep with watercolor shading.",
+    "keywords": "sketchbook,house,usb,car,cubes,watercolor",
+    "medium": "Pen and watercolor on sketchbook"
+  },
+  {
+    "id": "0020_1jlqqxx.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0020_1jlqqxx.jpeg",
+    "creator": "Nakkeosten",
+    "date": "2025-03-28",
+    "description": "A cartoonish Cthulhu-like monster with large red eyes, green skin, and blue tentacles.",
+    "keywords": "monster, tentacles, Cthulhu, green, creature, fantasy",
+    "medium": "Ink and colored pencil drawing"
+  },
+  {
+    "id": "0021_1jkzlqt.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0021_1jkzlqt.jpeg",
+    "creator": "chaths",
+    "date": "2025-03-27",
+    "description": "Top-down sketch of Monica's apartment from Friends, showing kitchen and dining area in detail.",
+    "keywords": "apartment, interior, kitchen, Friends, table, sketch",
+    "medium": "Watercolor and ink sketch"
+  },
+  {
+    "id": "0022_1jk7e57.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0022_1jk7e57.jpeg",
+    "creator": "chao_chucao",
+    "date": "2025-03-26",
+    "description": "A pencil inserted into a cassette tape against a teal background with sparkles.",
+    "keywords": "cassette, pencil, retro, music, tape, illustration",
+    "medium": "Vector digital illustration"
+  },
+  {
+    "id": "0023_1jjf0wi.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0023_1jjf0wi.jpeg",
+    "creator": "The_Juicebars",
+    "date": "2025-03-25",
+    "description": "A man holding and gazing at tribbles, a reference to Star Trek.",
+    "keywords": "Star Trek, tribble, portrait, man, sketch, pencil",
+    "medium": "Graphite pencil sketch"
+  },
+  {
+    "id": "0024_1jimb7d.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0024_1jimb7d.jpeg",
+    "creator": "chaths",
+    "date": "2025-03-24",
+    "description": "Dynamic sketches of sumo wrestlers and voluptuous figures in motion.",
+    "keywords": "sketch, sumo, figure, gesture, funny, dynamic",
+    "medium": "Pencil sketch"
+  },
+  {
+    "id": "0025_1jhv2yv.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0025_1jhv2yv.jpeg",
+    "creator": "SimpleAirport5444",
+    "date": "2025-03-23",
+    "description": "Black and white landscape with broken alarm clocks and wind turbines.",
+    "keywords": "clock, wind, landscape, apocalypse, surreal, time",
+    "medium": "Digital ink drawing"
+  },
+  {
+    "id": "0026_1jh4ays.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0026_1jh4ays.jpeg",
+    "creator": "seafoamBee",
+    "date": "2025-03-22",
+    "description": "Golden genie lamp on a purple background with smoke rising.",
+    "keywords": "lamp, genie, purple, magic, fantasy, mystical",
+    "medium": "Digital painting"
   },
   {
     "id": "0027_1jgcguy.jpeg",
+    "label": "*",
     "shape": "image",
-    "image": "extracted_images_new/0027_1jgcguy.jpeg"
+    "image": "images/0027_1jgcguy.jpeg",
+    "creator": "chaths",
+    "date": "2025-03-21",
+    "description": "Free-draw sheet of people, trees, vehicles, and a woman in a hat.",
+    "keywords": "sketch, pen, tree, portrait, draw, figure",
+    "medium": "Ink and watercolor sketch"
   },
   {
-    "id": "0096_1hzjk7q.jpeg",
+    "id": "0028_1jfkkpz.jpeg",
+    "label": "*",
     "shape": "image",
-    "image": "extracted_images_new/0096_1hzjk7q.jpeg"
+    "image": "images/0028_1jfkkpz.jpeg",
+    "creator": "chao_chucao",
+    "date": "2025-03-20",
+    "description": "Cartoon of a blue sandal with the text 'La Chancla' and motion stars.",
+    "keywords": "chancla, sandal, funny, text, cartoon, colorful",
+    "medium": "Vector illustration"
+  },
+  {
+    "id": "0029_1jeso6i.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0029_1jeso6i.jpeg",
+    "creator": "seafoamBee",
+    "date": "2025-03-19",
+    "description": "Bunch of golden grapes hanging from a branch with a soft background.",
+    "keywords": "grapes, fruit, yellow, bunch, branch, harvest",
+    "medium": "Digital painting"
+  },
+  {
+    "id": "0030_1je0lx3.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0030_1je0lx3.jpeg",
+    "creator": "chaths",
+    "date": "2025-03-18",
+    "description": "Sketches of various Indian monsoon flowers labeled with names like lotus, champa, and sunflower.",
+    "keywords": "flowers, watercolor, ink, botanical, India, flora",
+    "medium": "Watercolor over ink"
+  },
+  {
+    "id": "0031_1jd88sv.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0031_1jd88sv.jpeg",
+    "creator": "SimpleAirport5444",
+    "date": "2025-03-17",
+    "description": "Cartoon-style house shaped like a boot, with a door, windows, chimney and flowing water.",
+    "keywords": "house, boot, fantasy, illustration, colorful, fun",
+    "medium": "Digital illustration"
+  },
+  {
+    "id": "0032_1jchdif.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0032_1jchdif.jpeg",
+    "creator": "KV-broad-sky",
+    "date": "2025-03-16",
+    "description": "Black ink drawing of a tent in a pine forest with distant mountains and campfire in foreground.",
+    "keywords": "tent, mountains, forest, nature, campfire, ink",
+    "medium": "Ink sketch with light shading"
+  },
+  {
+    "id": "0033_1jbr0ql.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0033_1jbr0ql.jpeg",
+    "creator": "chaths",
+    "date": "2025-03-15",
+    "description": "Sketches of a boy digging and several imaginative raised garden beds including one shaped like a skull.",
+    "keywords": "gardening, sketch, plants, humor, boy, watercolor",
+    "medium": "Watercolor and pen"
+  },
+  {
+    "id": "0034_1jazkqj.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0034_1jazkqj.jpeg",
+    "creator": "EdensQuill",
+    "date": "2025-03-14",
+    "description": "Four vertical watercolor panels each showing stylized abstract nature scenes in different color palettes.",
+    "keywords": "watercolor, panel, nature, vertical, trees, abstract",
+    "medium": "Watercolor and pen"
+  },
+  {
+    "id": "0035_1ja7o6v.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0035_1ja7o6v.jpeg",
+    "creator": "chao_chucao",
+    "date": "2025-03-13",
+    "description": "Bright digital drawing of scones with whipped cream and raspberry jam on a white plate.",
+    "keywords": "dessert, scones, jam, whipped cream, food, sweet",
+    "medium": "Digital illustration"
+  },
+  {
+    "id": "0036_1j9frkt.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0036_1j9frkt.jpeg",
+    "creator": "redguy1976",
+    "date": "2025-03-12",
+    "description": "High-contrast digital painting of worn black leather boots on a gray background.",
+    "keywords": "boots, black, shoes, grunge, painting, realism",
+    "medium": "Digital painting"
+  },
+  {
+    "id": "0037_1j8mfw1.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0037_1j8mfw1.jpeg",
+    "creator": "chaths",
+    "date": "2025-03-11",
+    "description": "Various quick gesture sketches of a flying carpet and characters from Tangled.",
+    "keywords": "carpet, sketch, Tangled, animation, brush pen, gesture",
+    "medium": "Ink and brush pen"
   },
   {
     "id": "0038_1j7ucub.png",
+    "label": "*",
     "shape": "image",
-    "image": "extracted_images_new/0038_1j7ucub.png"
+    "image": "images/0038_1j7ucub.png",
+    "creator": "GuelryArt",
+    "date": "2025-03-10",
+    "description": "Diagonal composition of a monstrous creature facing off against a young warrior boy in grayscale.",
+    "keywords": "monster, child, dramatic, fantasy, digital, greyscale",
+    "medium": "Digital drawing"
+  },
+  {
+    "id": "0039_1j73nyb.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0039_1j73nyb.jpeg",
+    "creator": "chaths",
+    "date": "2025-03-09",
+    "description": "Page of spring-themed sketches including crocus, tulips, butterfly, lamb, and a girl with flowers.",
+    "keywords": "spring, flowers, girl, bird, pastel, nature",
+    "medium": "Watercolor with ballpoint"
+  },
+  {
+    "id": "0040_1j6e0sj.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0040_1j6e0sj.jpeg",
+    "creator": "chaths",
+    "date": "2025-03-08",
+    "description": "Two-point perspective studies: Basilica of Sant'Ambrogio in Milan and Green Park tube station in London.",
+    "keywords": "architecture, perspective, church, train, urban, sketch",
+    "medium": "Ink and watercolor sketch"
+  },
+  {
+    "id": "0041_1j5k3po.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0041_1j5k3po.jpeg",
+    "creator": "seafoamBee",
+    "date": "2025-03-07",
+    "description": "Bold digital portrait of a man with dynamic brush strokes and rich skin tones on teal background.",
+    "keywords": "portrait, man, bold, colorful, expression, digital",
+    "medium": "Digital painting"
+  },
+  {
+    "id": "0042_1j4s5b9.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0042_1j4s5b9.jpeg",
+    "creator": "chaths",
+    "date": "2025-03-06",
+    "description": "Sketches of chaparral animals with notes, including deer, owl, hawk, and pronghorn.",
+    "keywords": "animal, wildlife, sketch, ink, ballpoint, nature",
+    "medium": "Pen and ballpoint sketch"
+  },
+  {
+    "id": "0043_1j3zphs.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0043_1j3zphs.jpeg",
+    "creator": "Corginana",
+    "date": "2025-03-05",
+    "description": "Soft, pastel illustration of a girl gently kissing a small white puppy.",
+    "keywords": "girl, puppy, kiss, love, anime, soft",
+    "medium": "Digital anime-style drawing"
+  },
+  {
+    "id": "0044_1j37fgg.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0044_1j37fgg.png",
+    "creator": "The_Juicebars",
+    "date": "2025-03-04",
+    "description": "Pencil sketch of a laid-back man in 70s clothes seated cross-legged holding a cookie.",
+    "keywords": "man, seated, pencil, retro, coffee, sketch",
+    "medium": "Pencil sketch"
+  },
+  {
+    "id": "0045_1j2fbpx.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0045_1j2fbpx.png",
+    "creator": "The_Juicebars",
+    "date": "2025-03-03",
+    "description": "Realistic drawing of a door hinge with a tiny lizard perched on top.",
+    "keywords": "lizard, hinge, door, pencil, surreal, sketch",
+    "medium": "Graphite sketch"
+  },
+  {
+    "id": "0046_1j1njqz.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0046_1j1njqz.png",
+    "creator": "The_Juicebars",
+    "date": "2025-03-02",
+    "description": "Underwater scene with coral reef, fish, and turtle drawn in soft graphite tones.",
+    "keywords": "ocean, coral, turtle, fish, reef, nature",
+    "medium": "Pencil drawing"
+  },
+  {
+    "id": "0047_1j0w6qv.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0047_1j0w6qv.jpeg",
+    "creator": "chaths",
+    "date": "2025-03-01",
+    "description": "Fashion sketches from the Met Gala featuring celebrity outfits with detailed embellishments.",
+    "keywords": "fashion, sketch, Met Gala, clothing, editorial, celebrity",
+    "medium": "Digital fashion sketch"
+  },
+  {
+    "id": "0048_1j049zw.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0048_1j049zw.jpeg",
+    "creator": "chaths",
+    "date": "2025-02-28",
+    "description": "Mixed visual study of monastery, birds, rocks, and cars with notes and titles.",
+    "keywords": "illustration, car, bird, architecture, rock, study",
+    "medium": "Digital illustration"
+  },
+  {
+    "id": "0049_1izcc2o.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0049_1izcc2o.png",
+    "creator": "drawsprocket",
+    "date": "2025-02-27",
+    "description": "Low-angle beach painting of a man with sunglasses pointing fingers playfully.",
+    "keywords": "beach, man, sun, fun, swimwear, summer",
+    "medium": "Digital painting"
+  },
+  {
+    "id": "0050_1iyk4ec.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0050_1iyk4ec.jpeg",
+    "creator": "chaths",
+    "date": "2025-02-26",
+    "description": "Sketches of elaborately dressed figures at a costume ball: masquerade masks, feathers, layered gowns.",
+    "keywords": "costume, ball, dress, mask, feather, sketch",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0051_1ixriol.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0051_1ixriol.jpeg",
+    "creator": "chaths",
+    "date": "2025-02-25",
+    "description": "Energetic dance poses from the 1950s era, couples mid-movement, and retro dresses.",
+    "keywords": "1950s, dance, couple, swing, retro, motion",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0052_1iwylen.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0052_1iwylen.jpeg",
+    "creator": "chaths",
+    "date": "2025-02-24",
+    "description": "Colorful carnival outfits from different traditions (e.g., Trinidad, Venice), many with feathered headdresses.",
+    "keywords": "carnival, color, feathers, mask, sketch, festival",
+    "medium": "Digital sketch with color"
+  },
+  {
+    "id": "0053_1iw6upu.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0053_1iw6upu.jpeg",
+    "creator": "chaths",
+    "date": "2025-02-23",
+    "description": "Award show sketches: poses and moments such as 'the slap', 'the fall', and dramatic black gowns.",
+    "keywords": "award, show, drama, dress, celebrity, fashion",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0054_1ivfhea.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0054_1ivfhea.jpeg",
+    "creator": "chaths",
+    "date": "2025-02-22",
+    "description": "Fantasy scenes of animals carrying entire cities on their backs \u2013 including a whale, snail, and turtle.",
+    "keywords": "animals, city, surreal, fantasy, architecture, sketch",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0055_1iunfvk.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0055_1iunfvk.jpeg",
+    "creator": "chaths",
+    "date": "2025-02-21",
+    "description": "Freeform sketches of a bird, house, car, and diver. A mix of observational and imaginative subjects.",
+    "keywords": "eyes, house, car, animal, diving, freeform",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0056_1itv2ta.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0056_1itv2ta.jpeg",
+    "creator": "chaths",
+    "date": "2025-02-20",
+    "description": "Animal portraits from the steppe biome: eagle, bison, jerboa, baboon, and mammoth.",
+    "keywords": "eagle, mammoth, biome, animal, sketch, steppe",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0057_1it1zqy.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0057_1it1zqy.jpeg",
+    "creator": "proserpinax",
+    "date": "2025-02-19",
+    "description": "Urban scenes with 'hostile architecture': spikes, barriers, and dense gritty details.",
+    "keywords": "city, spikes, fence, hostile, design, architecture",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0058_1is9ais.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0058_1is9ais.jpeg",
+    "creator": "TheCrudBucket",
+    "date": "2025-02-18",
+    "description": "A light sketch of a blooming lilac bush, done with vibrant watercolor and ink outlines.",
+    "keywords": "lilac, watercolor, purple, leaves, sketchbook, flower",
+    "medium": "Watercolor and ink"
+  },
+  {
+    "id": "0059_1irgi1d.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0059_1irgi1d.jpeg",
+    "creator": "chaths",
+    "date": "2025-02-17",
+    "description": "Stylized cityscapes: Rome caf\u00e9, skyline silhouettes, architectural drawings of bridges and gates.",
+    "keywords": "city, street, architecture, buildings, sketch, scene",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0060_1iqp2ik.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0060_1iqp2ik.jpeg",
+    "creator": "SketchSavvy",
+    "date": "2025-02-16",
+    "description": "A series of digital sketches portraying individuals under pressure: Atlas carrying the world, a weightlifter mid-squat, a singer tribute scene, and a tangled sci-fi figure.",
+    "keywords": "pressure, strength, tension, weight, sketch, emotion",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0061_1ipy97k.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0061_1ipy97k.jpeg",
+    "creator": "PainterlyMood",
+    "date": "2025-02-15",
+    "description": "A digital painting depicting a group of cloaked figures wielding torches and pitchforks, marching through a medieval street.",
+    "keywords": "mob, fire, fear, march, protest, night",
+    "medium": "Digital painting"
+  },
+  {
+    "id": "0062_1ip7aqr.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0062_1ip7aqr.jpeg",
+    "creator": "InkMarks",
+    "date": "2025-02-14",
+    "description": "Finely detailed ink sketch of a quiver with arrows, leaning against a sketchpad with a pen placed nearby.",
+    "keywords": "quiver, arrows, ink, tools, sketch, medieval",
+    "medium": "Ink drawing"
+  },
+  {
+    "id": "0063_1iofrsw.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0063_1iofrsw.jpeg",
+    "creator": "InkMarks",
+    "date": "2025-02-13",
+    "description": "A totem-like domino-shaped object rendered in fine ink, featuring dot patterns and a skull symbol.",
+    "keywords": "totem, domino, symbol, skull, minimal, tribal",
+    "medium": "Ink drawing"
+  },
+  {
+    "id": "0064_1innlws.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0064_1innlws.jpeg",
+    "creator": "SurrealStrokes",
+    "date": "2025-02-12",
+    "description": "A chaotic and colorful fantasy landscape featuring towering beasts, eyes, and serpentine elements surrounding a lighthouse city.",
+    "keywords": "surreal, fantasy, creature, city, chaos, ink",
+    "medium": "Marker and ink on paper"
+  },
+  {
+    "id": "0065_1imv7c1.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0065_1imv7c1.jpeg",
+    "creator": "SketchSavvy",
+    "date": "2025-02-11",
+    "description": "Comedic reinterpretation of the seven virtues through exaggerated modern characters, labeled with traits like 'Gratitude' and 'Temperance'.",
+    "keywords": "virtues, satire, expression, cartoon, sketch, humor",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0066_1im2osq.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0066_1im2osq.jpeg",
+    "creator": "InkyKnight",
+    "date": "2025-02-10",
+    "description": "A lone knight pierced with arrows stands strong, gripping a massive sword in a pose of defiance.",
+    "keywords": "knight, armor, arrows, battle, ink, medieval",
+    "medium": "Ink drawing"
+  },
+  {
+    "id": "0067_1ilbity.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0067_1ilbity.jpeg",
+    "creator": "MistandInk",
+    "date": "2025-02-09",
+    "description": "Soft grayscale watercolor landscape showing a foggy forest with pine silhouettes fading into mist.",
+    "keywords": "mist, forest, pine, grayscale, watercolor, quiet",
+    "medium": "Watercolor"
+  },
+  {
+    "id": "0068_1ikk13a.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0068_1ikk13a.jpeg",
+    "creator": "SketchSavvy",
+    "date": "2025-02-08",
+    "description": "Surreal and humorous sketches of out-of-place subjects including a man with a bird head, a melting ghost, and a warped house.",
+    "keywords": "weird, surreal, bird, ghost, building, oddity",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0069_1ijrm00.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0069_1ijrm00.jpeg",
+    "creator": "ToonRush",
+    "date": "2025-02-07",
+    "description": "Comic-style watercolor scene of a sea monster attacking a man in a boat while a frightened girl watches.",
+    "keywords": "monster, sea, ink, boat, humor, dragon",
+    "medium": "Watercolor and ink"
+  },
+  {
+    "id": "0070_1iiz4f3.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0070_1iiz4f3.jpeg",
+    "creator": "SomeGuyDrawing",
+    "date": "2025-02-06",
+    "description": "Pencil-style sketches of historical figures including Princess Diana, Catherine the Great, and the Maharaja of Panna.",
+    "keywords": "royalty, portrait, sketch, princess, historical, grayscale",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0071_1ii6pv2.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0071_1ii6pv2.jpeg",
+    "creator": "seafoamBee",
+    "date": "2025-02-05",
+    "description": "Abstract ink landscape with forest-like vertical lines and a calm lake in the foreground.",
+    "keywords": "forest, ink, minimal, sketchy, vertical, quiet",
+    "medium": "Ink on paper"
+  },
+  {
+    "id": "0072_1ihec5r.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0072_1ihec5r.png",
+    "creator": "TransportationIll567",
+    "date": "2025-02-04",
+    "description": "Cute goat in a detailed astronaut suit, floating in zero gravity.",
+    "keywords": "goat, astronaut, animal, sci-fi, cute, space",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0073_1iglqe4.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0073_1iglqe4.jpeg",
+    "creator": "Nakkeosten",
+    "date": "2025-02-03",
+    "description": "A monstrous but sweet rhino helping an elderly lady with groceries, drawn in comic style.",
+    "keywords": "monster, grocery, kindness, ink, humor, comic",
+    "medium": "Ink and watercolor"
+  },
+  {
+    "id": "0074_1ifu2yu.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0074_1ifu2yu.png",
+    "creator": "SmallDays",
+    "date": "2025-02-02",
+    "description": "Psychedelic poster with bold typography and bright colors listing night sounds like wolves, crickets, and bats.",
+    "keywords": "poster, sound, wolves, night, typography, neon",
+    "medium": "Digital vector poster"
+  },
+  {
+    "id": "0075_1if8qvm.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0075_1if8qvm.png",
+    "creator": "NbeastGamer",
+    "date": "2025-02-01",
+    "description": "Pencil sketch of a figure fishing, face hidden behind leafy growth, birds nesting in the foliage.",
+    "keywords": "fishing, leaves, nature, pencil, peaceful, tree",
+    "medium": "Pencil on paper"
+  },
+  {
+    "id": "0076_1if36o8.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0076_1if36o8.jpeg",
+    "creator": "Nakkeosten",
+    "date": "2025-01-31",
+    "description": "Anthropomorphic animals meditating: an elephant, chick, meerkat, and hippo drawn in a peaceful pose.",
+    "keywords": "meditation, animals, yoga, peace, cartoon, sketch",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0077_1iebgz8.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0077_1iebgz8.jpeg",
+    "creator": "chao_chucao",
+    "date": "2025-01-30",
+    "description": "Charcoal sketch of a creepy crawling creature with a twisted muscular body and skull face.",
+    "keywords": "monster, horror, sketch, dark, limbs, creepy",
+    "medium": "Pencil sketch"
+  },
+  {
+    "id": "0078_1idjoxg.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0078_1idjoxg.png",
+    "creator": "reee-e",
+    "date": "2025-01-29",
+    "description": "Simple black and white comic strip featuring a superhero sloth saving the day\u2014slowly.",
+    "keywords": "sloth, comic, superhero, funny, blackwhite, rescue",
+    "medium": "Digital drawing"
+  },
+  {
+    "id": "0079_1icqgd1.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0079_1icqgd1.png",
+    "creator": "piscantebasco",
+    "date": "2025-01-28",
+    "description": "Soft-colored cartoon of a bear sleeping, dreaming of itself sleeping inside a cloud bubble.",
+    "keywords": "dream, bear, sleep, cloud, pastel, cute",
+    "medium": "Crayon and pencil on paper"
+  },
+  {
+    "id": "0080_1iby8fx.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0080_1iby8fx.png",
+    "creator": "Icy_Mycologist5024",
+    "date": "2025-01-28",
+    "description": "A muscular janitor holding a mop, wearing a name tag 'Vinny'.",
+    "keywords": "janitor, muscles, cartoon, mop, strong, funny",
+    "medium": "Digital illustration"
+  },
+  {
+    "id": "0081_1ib4woo.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0081_1ib4woo.jpeg",
+    "creator": "roxel-3",
+    "date": "2025-01-27",
+    "description": "X-ray style illustration of a cat, with its skeleton visible and little hearts around it.",
+    "keywords": "cat, x-ray, skeleton, transparent, hearts, cute",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0082_1iaap34.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0082_1iaap34.jpeg",
+    "creator": "seafoamBee",
+    "date": "2025-01-26",
+    "description": "A dynamic figure overwhelmed by a bright computer screen, colorful, frantic brush strokes.",
+    "keywords": "technology, overwhelmed, computer, frantic, dark, colorful",
+    "medium": "Digital painting"
+  },
+  {
+    "id": "0083_1i9jsyx.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0083_1i9jsyx.jpeg",
+    "creator": "roxel-3",
+    "date": "2025-01-25",
+    "description": "Multiple sketches of expressive human faces showing confusion, anger, surprise.",
+    "keywords": "faces, emotions, sketch, expressions, confusion, surprise",
+    "medium": "Pencil/digital sketch"
+  },
+  {
+    "id": "0084_1i8s1ym.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0084_1i8s1ym.png",
+    "creator": "anxious_leechee",
+    "date": "2025-01-24",
+    "description": "Portrait of a woman with tears styled as red ribbons flowing from her eyes.",
+    "keywords": "portrait, tears, ribbon, sadness, woman, braids",
+    "medium": "Digital pencil sketch with color accents"
+  },
+  {
+    "id": "0085_1i801kr.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0085_1i801kr.jpeg",
+    "creator": "DoubleShenanigans",
+    "date": "2025-01-23",
+    "description": "Sketch of ancient stone buildings with domes and arches, shaded with grey ink wash.",
+    "keywords": "architecture, ruins, domes, ink, arches, history",
+    "medium": "Ink and watercolor sketch"
+  },
+  {
+    "id": "0086_1i77rxp.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0086_1i77rxp.jpeg",
+    "creator": "ZleepyCheshire",
+    "date": "2025-01-22",
+    "description": "Chess pieces lost at a finish line, saying 'I don't think we're in the right place'.",
+    "keywords": "chess, funny, finish, wrong, pawns, knight",
+    "medium": "Charcoal digital sketch"
+  },
+  {
+    "id": "0087_1i6fabf.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0087_1i6fabf.png",
+    "creator": "ZleepyCheshire",
+    "date": "2025-01-21",
+    "description": "Cartoon desert with a smiling fox, cacti, and sunset in the background.",
+    "keywords": "desert, fox, cartoon, sunset, cactus, minimal",
+    "medium": "Digital cartoon"
+  },
+  {
+    "id": "0088_1i5mvxf.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0088_1i5mvxf.jpeg",
+    "creator": "Opposite_Resource758",
+    "date": "2025-01-20",
+    "description": "Medusa presenting a cracked, weathered resume to a petrified employer.",
+    "keywords": "Medusa, resume, sketch, snakes, mythology, humor",
+    "medium": "Pencil sketch"
+  },
+  {
+    "id": "0089_1i4v8tm.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0089_1i4v8tm.png",
+    "creator": "scentedfluke",
+    "date": "2025-01-19",
+    "description": "Minimalistic creature (Diglett-like) emerging from the dark using light stippling.",
+    "keywords": "minimal, dark, stipple, Diglett, mysterious, spotlight",
+    "medium": "Digital stippling"
+  },
+  {
+    "id": "0090_1i44ejz.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0090_1i44ejz.jpeg",
+    "creator": "seafoamBee",
+    "date": "2025-01-18",
+    "description": "Close-up colorful portrait of a droopy-eyed dog.",
+    "keywords": "dog, colorful, portrait, expressive, digital, bold",
+    "medium": "Digital painting"
+  },
+  {
+    "id": "0091_1i3d21b.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0091_1i3d21b.jpeg",
+    "creator": "aim_dhd_",
+    "date": "2025-01-17",
+    "description": "A realistic pastel-style drawing of a tomato slice.",
+    "keywords": "tomato, slice, pastel, vibrant, fresh, red",
+    "medium": "Digital pastel drawing"
+  },
+  {
+    "id": "0092_1i2lmgk.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0092_1i2lmgk.jpeg",
+    "creator": "OldestSisterAIiMH",
+    "date": "2025-01-16",
+    "description": "Watercolor of a small terrier-like dog lying down.",
+    "keywords": "dog, terrier, watercolor, calm, portrait, small",
+    "medium": "Watercolor painting"
+  },
+  {
+    "id": "0093_1i1u6o0.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0093_1i1u6o0.jpeg",
+    "creator": "roxel-3",
+    "date": "2025-01-15",
+    "description": "A digital sketch of a small puppy with large sad eyes.",
+    "keywords": "puppy, sad, sketch, digital, eyes, dog",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0094_1i12rva.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0094_1i12rva.png",
+    "creator": "anxious_leechee",
+    "date": "2025-01-14",
+    "description": "Sketch of a Borzoi dog emerging from a slice of toast with the title 'Toasty Borzoi'.",
+    "keywords": "borzoi, toast, funny, sketch, whimsical, dog",
+    "medium": "Digital sketch"
+  },
+  {
+    "id": "0095_1i0ap55.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0095_1i0ap55.jpeg",
+    "creator": "roxel-3",
+    "date": "2025-01-13",
+    "description": "Multiple cartoon studies of a fluffy black dog playing and posing.",
+    "keywords": "dog, cartoon, black, playful, studies, sketch",
+    "medium": "Digital cartoon"
+  },
+  {
+    "id": "0096_1hzjk7q.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0096_1hzjk7q.jpeg",
+    "creator": "Rimmori",
+    "date": "2025-01-12",
+    "description": "Painting of a fluffy white dog running across a green field.",
+    "keywords": "dog, fluffy, running, field, digital, joy",
+    "medium": "Digital painting"
+  },
+  {
+    "id": "0097_1hyssuc.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0097_1hyssuc.png",
+    "creator": "Selvagemqt",
+    "date": "2025-01-11",
+    "description": "Child hugging a giant shrimp, sketched in pencil.",
+    "keywords": "shrimp, hug, child, surreal, pencil, sketch",
+    "medium": "Pencil sketch"
+  },
+  {
+    "id": "0098_1hy14ib.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0098_1hy14ib.png",
+    "creator": "anxious_leechee",
+    "date": "2025-01-10",
+    "description": "Two colorful cartoon worms kissing in midair with hearts.",
+    "keywords": "worms, love, cartoon, kiss, colorful, romance",
+    "medium": "Digital cartoon"
+  },
+  {
+    "id": "0099_1hx9j9o.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0099_1hx9j9o.jpeg",
+    "creator": "claudiawithachanceof",
+    "date": "2025-01-09",
+    "description": "Old, tattered book with illegible writing painted in watercolor and ink.",
+    "keywords": "book, old, ink, watercolor, antique, mystery",
+    "medium": "Watercolor and ink sketch"
+  },
+  {
+    "id": "0100_1hwgnjx.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0100_1hwgnjx.jpeg",
+    "creator": "seafoamBee",
+    "date": "2025-01-08",
+    "description": "A duck dressed in a blue suit and top hat, talking to two smaller ducks.",
+    "keywords": "duck, suit, hat, whimsical, cartoon, family",
+    "medium": "Watercolor and pencil sketch"
+  },
+  {
+    "id": "0101_1hvo64l.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0101_1hvo64l.jpeg",
+    "creator": "ProfessorPlayerOne",
+    "date": "2025-01-07",
+    "description": "A cup of coffee next to a watercolor paint palette.",
+    "keywords": "coffee, watercolor, paint, cozy, art, calm",
+    "medium": "Watercolor sketch"
+  },
+  {
+    "id": "0102_1huvo9b.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0102_1huvo9b.png",
+    "creator": "Selvagemqt",
+    "date": "2025-01-06",
+    "description": "Two young girls with cat ear headbands whispering to each other.",
+    "keywords": "girls, whisper, secret, sketch, cute, pencil",
+    "medium": "Pencil sketch"
+  },
+  {
+    "id": "0103_1hu3jkp.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0103_1hu3jkp.jpeg",
+    "creator": "seafoamBee",
+    "date": "2025-01-05",
+    "description": "Four sketches of historical male figures, detailed shading.",
+    "keywords": "portraits, history, ink, charcoal, serious, sketch",
+    "medium": "Charcoal or ink sketch"
+  },
+  {
+    "id": "0104_1htbaqc.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0104_1htbaqc.png",
+    "creator": "Selvagemqt",
+    "date": "2025-01-04",
+    "description": "Child figure with fire drawn on chest and smoke above head.",
+    "keywords": "fire, smoke, emotions, sketch, anger, child",
+    "medium": "Pencil sketch"
+  },
+  {
+    "id": "0105_1hsj4vn.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0105_1hsj4vn.jpeg",
+    "creator": "Agreeable-Analyst951",
+    "date": "2025-01-04",
+    "description": "Figure climbing a ladder toward a giant spherical celestial object.",
+    "keywords": "ladder, sky, climb, surreal, sphere, mountains",
+    "medium": "Ink drawing"
+  },
+  {
+    "id": "0106_1hrqg1k.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0106_1hrqg1k.jpeg",
+    "creator": "JungleRecluse",
+    "date": "2025-01-02",
+    "description": "Rainbow pride flag waving on a pole against a muted background.",
+    "keywords": "pride, rainbow, flag, colorful, lgbtq, pencil",
+    "medium": "Colored pencil drawing"
+  },
+  {
+    "id": "0107_1hr023p.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0107_1hr023p.png",
+    "creator": "Amy_MtF",
+    "date": "2025-01-01",
+    "description": "Sketch of a figure placing a bottle in a recycling bin with a leaf symbol.",
+    "keywords": "recycling, environment, bottle, bin, pencil, sketch",
+    "medium": "Pencil sketch"
+  },
+  {
+    "id": "0108_1hqbnko.png",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0108_1hqbnko.png",
+    "creator": "Faexinna",
+    "date": "2024-12-31",
+    "description": "Potted plant with question and exclamation marks floating around.",
+    "keywords": "plant, question, confusion, cute, watercolor, digital",
+    "medium": "Digital watercolor"
+  },
+  {
+    "id": "0109_1hpk0r4.jpeg",
+    "label": "*",
+    "shape": "image",
+    "image": "images/0109_1hpk0r4.jpeg",
+    "creator": "Rimmori",
+    "date": "2024-12-30",
+    "description": "Snow fox laughing while rolling in the snow.",
+    "keywords": "fox, snow, laughter, joy, winter, digital",
+    "medium": "Digital painting"
   }
 ]
