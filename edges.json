@@ -1,0 +1,2837 @@
+[
+  {
+    "from": "0000_1k0fueb.jpeg",
+    "to": "0001_1jzn6wh.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0000_1k0fueb.jpeg",
+    "to": "0020_1jlqqxx.jpeg",
+    "value": 0.8650594353675842
+  },
+  {
+    "from": "0000_1k0fueb.jpeg",
+    "to": "0025_1jhv2yv.jpeg",
+    "value": 0.8279551267623901
+  },
+  {
+    "from": "0000_1k0fueb.jpeg",
+    "to": "0037_1j8mfw1.jpeg",
+    "value": 0.848945140838623
+  },
+  {
+    "from": "0000_1k0fueb.jpeg",
+    "to": "0062_1ip7aqr.jpeg",
+    "value": 0.9187432527542114
+  },
+  {
+    "from": "0000_1k0fueb.jpeg",
+    "to": "0063_1iofrsw.jpeg",
+    "value": 0.9187432527542114
+  },
+  {
+    "from": "0000_1k0fueb.jpeg",
+    "to": "0066_1im2osq.jpeg",
+    "value": 0.9187432527542114
+  },
+  {
+    "from": "0000_1k0fueb.jpeg",
+    "to": "0105_1hsj4vn.jpeg",
+    "value": 0.9187432527542114
+  },
+  {
+    "from": "0001_1jzn6wh.jpeg",
+    "to": "0020_1jlqqxx.jpeg",
+    "value": 0.8650594353675842
+  },
+  {
+    "from": "0001_1jzn6wh.jpeg",
+    "to": "0025_1jhv2yv.jpeg",
+    "value": 0.8279551267623901
+  },
+  {
+    "from": "0001_1jzn6wh.jpeg",
+    "to": "0037_1j8mfw1.jpeg",
+    "value": 0.848945140838623
+  },
+  {
+    "from": "0001_1jzn6wh.jpeg",
+    "to": "0062_1ip7aqr.jpeg",
+    "value": 0.9187432527542114
+  },
+  {
+    "from": "0001_1jzn6wh.jpeg",
+    "to": "0063_1iofrsw.jpeg",
+    "value": 0.9187432527542114
+  },
+  {
+    "from": "0001_1jzn6wh.jpeg",
+    "to": "0066_1im2osq.jpeg",
+    "value": 0.9187432527542114
+  },
+  {
+    "from": "0001_1jzn6wh.jpeg",
+    "to": "0105_1hsj4vn.jpeg",
+    "value": 0.9187432527542114
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0011_1jrza0a.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0013_1jqdim6.png",
+    "value": 0.8239593505859375
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0031_1jd88sv.jpeg",
+    "value": 0.8754944801330566
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0035_1ja7o6v.jpeg",
+    "value": 0.8754944801330566
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0038_1j7ucub.png",
+    "value": 0.8074792623519897
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0048_1j049zw.jpeg",
+    "value": 0.8754944801330566
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0050_1iyk4ec.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0051_1ixriol.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0053_1iw6upu.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0054_1ivfhea.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0055_1iunfvk.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0056_1itv2ta.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0057_1it1zqy.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0059_1irgi1d.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0060_1iqp2ik.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0065_1imv7c1.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0072_1ihec5r.png",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0076_1if36o8.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8074792623519897
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0080_1iby8fx.png",
+    "value": 0.8754944205284119
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 0.8835388422012329
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8052829504013062
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0002_1jyubci.png",
+    "to": "0094_1i12rva.png",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0003_1jy3gd0.jpeg",
+    "to": "0042_1j4s5b9.jpeg",
+    "value": 0.8455097079277039
+  },
+  {
+    "from": "0004_1jxd2md.png",
+    "to": "0022_1jk7e57.jpeg",
+    "value": 0.8276249766349792
+  },
+  {
+    "from": "0006_1jvtd2b.jpeg",
+    "to": "0018_1jn8fq7.png",
+    "value": 0.8160072565078735
+  },
+  {
+    "from": "0006_1jvtd2b.jpeg",
+    "to": "0031_1jd88sv.jpeg",
+    "value": 0.8807158470153809
+  },
+  {
+    "from": "0006_1jvtd2b.jpeg",
+    "to": "0035_1ja7o6v.jpeg",
+    "value": 0.8807158470153809
+  },
+  {
+    "from": "0006_1jvtd2b.jpeg",
+    "to": "0048_1j049zw.jpeg",
+    "value": 0.8807158470153809
+  },
+  {
+    "from": "0006_1jvtd2b.jpeg",
+    "to": "0080_1iby8fx.png",
+    "value": 0.8807158470153809
+  },
+  {
+    "from": "0007_1jv18z2.png",
+    "to": "0031_1jd88sv.jpeg",
+    "value": 0.8608384132385254
+  },
+  {
+    "from": "0007_1jv18z2.png",
+    "to": "0035_1ja7o6v.jpeg",
+    "value": 0.8608384132385254
+  },
+  {
+    "from": "0007_1jv18z2.png",
+    "to": "0048_1j049zw.jpeg",
+    "value": 0.8608384132385254
+  },
+  {
+    "from": "0007_1jv18z2.png",
+    "to": "0080_1iby8fx.png",
+    "value": 0.8608384132385254
+  },
+  {
+    "from": "0008_1ju9213.jpeg",
+    "to": "0062_1ip7aqr.jpeg",
+    "value": 0.8428744077682495
+  },
+  {
+    "from": "0008_1ju9213.jpeg",
+    "to": "0063_1iofrsw.jpeg",
+    "value": 0.8428744077682495
+  },
+  {
+    "from": "0008_1ju9213.jpeg",
+    "to": "0066_1im2osq.jpeg",
+    "value": 0.8428744077682495
+  },
+  {
+    "from": "0008_1ju9213.jpeg",
+    "to": "0105_1hsj4vn.jpeg",
+    "value": 0.8428744077682495
+  },
+  {
+    "from": "0009_1jtgsg6.jpeg",
+    "to": "0028_1jfkkpz.jpeg",
+    "value": 0.8429475426673889
+  },
+  {
+    "from": "0010_1jspwr5.png",
+    "to": "0016_1jor2cv.jpeg",
+    "value": 0.8670755624771118
+  },
+  {
+    "from": "0010_1jspwr5.png",
+    "to": "0026_1jh4ays.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0010_1jspwr5.png",
+    "to": "0029_1jeso6i.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0010_1jspwr5.png",
+    "to": "0036_1j9frkt.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0010_1jspwr5.png",
+    "to": "0038_1j7ucub.png",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0010_1jspwr5.png",
+    "to": "0041_1j5k3po.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0010_1jspwr5.png",
+    "to": "0049_1izcc2o.png",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0010_1jspwr5.png",
+    "to": "0061_1ipy97k.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0010_1jspwr5.png",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0010_1jspwr5.png",
+    "to": "0082_1iaap34.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0010_1jspwr5.png",
+    "to": "0090_1i44ejz.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0010_1jspwr5.png",
+    "to": "0096_1hzjk7q.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0010_1jspwr5.png",
+    "to": "0109_1hpk0r4.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0013_1jqdim6.png",
+    "value": 0.8239593505859375
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0031_1jd88sv.jpeg",
+    "value": 0.8754944801330566
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0035_1ja7o6v.jpeg",
+    "value": 0.8754944801330566
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0038_1j7ucub.png",
+    "value": 0.8074792623519897
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0048_1j049zw.jpeg",
+    "value": 0.8754944801330566
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0050_1iyk4ec.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0051_1ixriol.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0053_1iw6upu.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0054_1ivfhea.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0055_1iunfvk.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0056_1itv2ta.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0057_1it1zqy.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0059_1irgi1d.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0060_1iqp2ik.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0065_1imv7c1.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8074792623519897
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0080_1iby8fx.png",
+    "value": 0.8754944801330566
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8052826523780823
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0011_1jrza0a.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 0.8835389018058777
+  },
+  {
+    "from": "0012_1jr7eq0.jpeg",
+    "to": "0021_1jkzlqt.jpeg",
+    "value": 0.8611314296722412
+  },
+  {
+    "from": "0012_1jr7eq0.jpeg",
+    "to": "0027_1jgcguy.jpeg",
+    "value": 0.8600094318389893
+  },
+  {
+    "from": "0012_1jr7eq0.jpeg",
+    "to": "0030_1je0lx3.jpeg",
+    "value": 0.8190329074859619
+  },
+  {
+    "from": "0012_1jr7eq0.jpeg",
+    "to": "0040_1j6e0sj.jpeg",
+    "value": 0.8600094318389893
+  },
+  {
+    "from": "0012_1jr7eq0.jpeg",
+    "to": "0058_1is9ais.jpeg",
+    "value": 0.8407787084579468
+  },
+  {
+    "from": "0012_1jr7eq0.jpeg",
+    "to": "0069_1ijrm00.jpeg",
+    "value": 0.8407787084579468
+  },
+  {
+    "from": "0012_1jr7eq0.jpeg",
+    "to": "0073_1iglqe4.jpeg",
+    "value": 0.832943320274353
+  },
+  {
+    "from": "0012_1jr7eq0.jpeg",
+    "to": "0085_1i801kr.jpeg",
+    "value": 0.8600094318389893
+  },
+  {
+    "from": "0012_1jr7eq0.jpeg",
+    "to": "0099_1hx9j9o.jpeg",
+    "value": 0.8611314296722412
+  },
+  {
+    "from": "0013_1jqdim6.png",
+    "to": "0031_1jd88sv.jpeg",
+    "value": 0.8409788608551025
+  },
+  {
+    "from": "0013_1jqdim6.png",
+    "to": "0035_1ja7o6v.jpeg",
+    "value": 0.8409788608551025
+  },
+  {
+    "from": "0013_1jqdim6.png",
+    "to": "0048_1j049zw.jpeg",
+    "value": 0.8409788608551025
+  },
+  {
+    "from": "0013_1jqdim6.png",
+    "to": "0080_1iby8fx.png",
+    "value": 0.840978741645813
+  },
+  {
+    "from": "0013_1jqdim6.png",
+    "to": "0087_1i6fabf.png",
+    "value": 0.8220587372779846
+  },
+  {
+    "from": "0013_1jqdim6.png",
+    "to": "0095_1i0ap55.jpeg",
+    "value": 0.8220587372779846
+  },
+  {
+    "from": "0013_1jqdim6.png",
+    "to": "0098_1hy14ib.png",
+    "value": 0.8220587372779846
+  },
+  {
+    "from": "0016_1jor2cv.jpeg",
+    "to": "0026_1jh4ays.jpeg",
+    "value": 0.8670755624771118
+  },
+  {
+    "from": "0016_1jor2cv.jpeg",
+    "to": "0029_1jeso6i.jpeg",
+    "value": 0.8670755624771118
+  },
+  {
+    "from": "0016_1jor2cv.jpeg",
+    "to": "0036_1j9frkt.jpeg",
+    "value": 0.8670755624771118
+  },
+  {
+    "from": "0016_1jor2cv.jpeg",
+    "to": "0041_1j5k3po.jpeg",
+    "value": 0.8670755624771118
+  },
+  {
+    "from": "0016_1jor2cv.jpeg",
+    "to": "0049_1izcc2o.png",
+    "value": 0.8670755624771118
+  },
+  {
+    "from": "0016_1jor2cv.jpeg",
+    "to": "0061_1ipy97k.jpeg",
+    "value": 0.8670755624771118
+  },
+  {
+    "from": "0016_1jor2cv.jpeg",
+    "to": "0082_1iaap34.jpeg",
+    "value": 0.8670753240585327
+  },
+  {
+    "from": "0016_1jor2cv.jpeg",
+    "to": "0090_1i44ejz.jpeg",
+    "value": 0.8670755624771118
+  },
+  {
+    "from": "0016_1jor2cv.jpeg",
+    "to": "0096_1hzjk7q.jpeg",
+    "value": 0.8670755624771118
+  },
+  {
+    "from": "0016_1jor2cv.jpeg",
+    "to": "0109_1hpk0r4.jpeg",
+    "value": 0.8670755624771118
+  },
+  {
+    "from": "0018_1jn8fq7.png",
+    "to": "0031_1jd88sv.jpeg",
+    "value": 0.8778526782989502
+  },
+  {
+    "from": "0018_1jn8fq7.png",
+    "to": "0035_1ja7o6v.jpeg",
+    "value": 0.8778526782989502
+  },
+  {
+    "from": "0018_1jn8fq7.png",
+    "to": "0048_1j049zw.jpeg",
+    "value": 0.8778526782989502
+  },
+  {
+    "from": "0018_1jn8fq7.png",
+    "to": "0080_1iby8fx.png",
+    "value": 0.8778526782989502
+  },
+  {
+    "from": "0019_1jmi7q9.jpeg",
+    "to": "0021_1jkzlqt.jpeg",
+    "value": 0.8048287630081177
+  },
+  {
+    "from": "0019_1jmi7q9.jpeg",
+    "to": "0033_1jbr0ql.jpeg",
+    "value": 0.8428099751472473
+  },
+  {
+    "from": "0019_1jmi7q9.jpeg",
+    "to": "0034_1jazkqj.jpeg",
+    "value": 0.8428099751472473
+  },
+  {
+    "from": "0019_1jmi7q9.jpeg",
+    "to": "0099_1hx9j9o.jpeg",
+    "value": 0.8048286437988281
+  },
+  {
+    "from": "0019_1jmi7q9.jpeg",
+    "to": "0100_1hwgnjx.jpeg",
+    "value": 0.8184207081794739
+  },
+  {
+    "from": "0020_1jlqqxx.jpeg",
+    "to": "0046_1j1njqz.png",
+    "value": 0.8087931275367737
+  },
+  {
+    "from": "0020_1jlqqxx.jpeg",
+    "to": "0062_1ip7aqr.jpeg",
+    "value": 0.8381727933883667
+  },
+  {
+    "from": "0020_1jlqqxx.jpeg",
+    "to": "0063_1iofrsw.jpeg",
+    "value": 0.8381727933883667
+  },
+  {
+    "from": "0020_1jlqqxx.jpeg",
+    "to": "0066_1im2osq.jpeg",
+    "value": 0.8381727933883667
+  },
+  {
+    "from": "0020_1jlqqxx.jpeg",
+    "to": "0105_1hsj4vn.jpeg",
+    "value": 0.8381727933883667
+  },
+  {
+    "from": "0020_1jlqqxx.jpeg",
+    "to": "0106_1hrqg1k.jpeg",
+    "value": 0.9166034460067749
+  },
+  {
+    "from": "0021_1jkzlqt.jpeg",
+    "to": "0027_1jgcguy.jpeg",
+    "value": 0.9920636415481567
+  },
+  {
+    "from": "0021_1jkzlqt.jpeg",
+    "to": "0030_1je0lx3.jpeg",
+    "value": 0.8009933233261108
+  },
+  {
+    "from": "0021_1jkzlqt.jpeg",
+    "to": "0033_1jbr0ql.jpeg",
+    "value": 0.8101555109024048
+  },
+  {
+    "from": "0021_1jkzlqt.jpeg",
+    "to": "0034_1jazkqj.jpeg",
+    "value": 0.8101555109024048
+  },
+  {
+    "from": "0021_1jkzlqt.jpeg",
+    "to": "0040_1j6e0sj.jpeg",
+    "value": 0.9920636415481567
+  },
+  {
+    "from": "0021_1jkzlqt.jpeg",
+    "to": "0058_1is9ais.jpeg",
+    "value": 0.8696105480194092
+  },
+  {
+    "from": "0021_1jkzlqt.jpeg",
+    "to": "0069_1ijrm00.jpeg",
+    "value": 0.8696105480194092
+  },
+  {
+    "from": "0021_1jkzlqt.jpeg",
+    "to": "0073_1iglqe4.jpeg",
+    "value": 0.8593544363975525
+  },
+  {
+    "from": "0021_1jkzlqt.jpeg",
+    "to": "0085_1i801kr.jpeg",
+    "value": 0.9920636415481567
+  },
+  {
+    "from": "0021_1jkzlqt.jpeg",
+    "to": "0099_1hx9j9o.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0021_1jkzlqt.jpeg",
+    "to": "0100_1hwgnjx.jpeg",
+    "value": 0.8939404487609863
+  },
+  {
+    "from": "0021_1jkzlqt.jpeg",
+    "to": "0101_1hvo64l.jpeg",
+    "value": 0.8716425895690918
+  },
+  {
+    "from": "0022_1jk7e57.jpeg",
+    "to": "0028_1jfkkpz.jpeg",
+    "value": 0.8678369522094727
+  },
+  {
+    "from": "0022_1jk7e57.jpeg",
+    "to": "0031_1jd88sv.jpeg",
+    "value": 0.835619330406189
+  },
+  {
+    "from": "0022_1jk7e57.jpeg",
+    "to": "0035_1ja7o6v.jpeg",
+    "value": 0.835619330406189
+  },
+  {
+    "from": "0022_1jk7e57.jpeg",
+    "to": "0048_1j049zw.jpeg",
+    "value": 0.835619330406189
+  },
+  {
+    "from": "0022_1jk7e57.jpeg",
+    "to": "0080_1iby8fx.png",
+    "value": 0.835619330406189
+  },
+  {
+    "from": "0023_1jjf0wi.jpeg",
+    "to": "0024_1jimb7d.jpeg",
+    "value": 0.8391108512878418
+  },
+  {
+    "from": "0023_1jjf0wi.jpeg",
+    "to": "0044_1j37fgg.png",
+    "value": 0.8391108512878418
+  },
+  {
+    "from": "0023_1jjf0wi.jpeg",
+    "to": "0045_1j2fbpx.png",
+    "value": 0.941561222076416
+  },
+  {
+    "from": "0023_1jjf0wi.jpeg",
+    "to": "0077_1iebgz8.jpeg",
+    "value": 0.8391108512878418
+  },
+  {
+    "from": "0023_1jjf0wi.jpeg",
+    "to": "0088_1i5mvxf.jpeg",
+    "value": 0.8391108512878418
+  },
+  {
+    "from": "0023_1jjf0wi.jpeg",
+    "to": "0097_1hyssuc.png",
+    "value": 0.8391110301017761
+  },
+  {
+    "from": "0023_1jjf0wi.jpeg",
+    "to": "0102_1huvo9b.png",
+    "value": 0.8391110301017761
+  },
+  {
+    "from": "0023_1jjf0wi.jpeg",
+    "to": "0104_1htbaqc.png",
+    "value": 0.8391108512878418
+  },
+  {
+    "from": "0023_1jjf0wi.jpeg",
+    "to": "0107_1hr023p.png",
+    "value": 0.8391108512878418
+  },
+  {
+    "from": "0024_1jimb7d.jpeg",
+    "to": "0044_1j37fgg.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0024_1jimb7d.jpeg",
+    "to": "0046_1j1njqz.png",
+    "value": 0.9107124209403992
+  },
+  {
+    "from": "0024_1jimb7d.jpeg",
+    "to": "0077_1iebgz8.jpeg",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0024_1jimb7d.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8524677753448486
+  },
+  {
+    "from": "0024_1jimb7d.jpeg",
+    "to": "0088_1i5mvxf.jpeg",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0024_1jimb7d.jpeg",
+    "to": "0097_1hyssuc.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0024_1jimb7d.jpeg",
+    "to": "0102_1huvo9b.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0024_1jimb7d.jpeg",
+    "to": "0104_1htbaqc.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0024_1jimb7d.jpeg",
+    "to": "0107_1hr023p.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0025_1jhv2yv.jpeg",
+    "to": "0038_1j7ucub.png",
+    "value": 0.8573028445243835
+  },
+  {
+    "from": "0025_1jhv2yv.jpeg",
+    "to": "0062_1ip7aqr.jpeg",
+    "value": 0.8992019891738892
+  },
+  {
+    "from": "0025_1jhv2yv.jpeg",
+    "to": "0063_1iofrsw.jpeg",
+    "value": 0.8992019891738892
+  },
+  {
+    "from": "0025_1jhv2yv.jpeg",
+    "to": "0066_1im2osq.jpeg",
+    "value": 0.8992019891738892
+  },
+  {
+    "from": "0025_1jhv2yv.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8573028445243835
+  },
+  {
+    "from": "0025_1jhv2yv.jpeg",
+    "to": "0105_1hsj4vn.jpeg",
+    "value": 0.8992019891738892
+  },
+  {
+    "from": "0026_1jh4ays.jpeg",
+    "to": "0029_1jeso6i.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0026_1jh4ays.jpeg",
+    "to": "0036_1j9frkt.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0026_1jh4ays.jpeg",
+    "to": "0038_1j7ucub.png",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0026_1jh4ays.jpeg",
+    "to": "0041_1j5k3po.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0026_1jh4ays.jpeg",
+    "to": "0049_1izcc2o.png",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0026_1jh4ays.jpeg",
+    "to": "0061_1ipy97k.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0026_1jh4ays.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0026_1jh4ays.jpeg",
+    "to": "0082_1iaap34.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0026_1jh4ays.jpeg",
+    "to": "0090_1i44ejz.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0026_1jh4ays.jpeg",
+    "to": "0096_1hzjk7q.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0026_1jh4ays.jpeg",
+    "to": "0109_1hpk0r4.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0027_1jgcguy.jpeg",
+    "to": "0040_1j6e0sj.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0027_1jgcguy.jpeg",
+    "to": "0058_1is9ais.jpeg",
+    "value": 0.8645878434181213
+  },
+  {
+    "from": "0027_1jgcguy.jpeg",
+    "to": "0069_1ijrm00.jpeg",
+    "value": 0.8645878434181213
+  },
+  {
+    "from": "0027_1jgcguy.jpeg",
+    "to": "0073_1iglqe4.jpeg",
+    "value": 0.8629773855209351
+  },
+  {
+    "from": "0027_1jgcguy.jpeg",
+    "to": "0085_1i801kr.jpeg",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0027_1jgcguy.jpeg",
+    "to": "0099_1hx9j9o.jpeg",
+    "value": 0.9920636415481567
+  },
+  {
+    "from": "0027_1jgcguy.jpeg",
+    "to": "0100_1hwgnjx.jpeg",
+    "value": 0.8757725954055786
+  },
+  {
+    "from": "0027_1jgcguy.jpeg",
+    "to": "0101_1hvo64l.jpeg",
+    "value": 0.8447230458259583
+  },
+  {
+    "from": "0029_1jeso6i.jpeg",
+    "to": "0036_1j9frkt.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0029_1jeso6i.jpeg",
+    "to": "0038_1j7ucub.png",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0029_1jeso6i.jpeg",
+    "to": "0041_1j5k3po.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0029_1jeso6i.jpeg",
+    "to": "0049_1izcc2o.png",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0029_1jeso6i.jpeg",
+    "to": "0061_1ipy97k.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0029_1jeso6i.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0029_1jeso6i.jpeg",
+    "to": "0082_1iaap34.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0029_1jeso6i.jpeg",
+    "to": "0090_1i44ejz.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0029_1jeso6i.jpeg",
+    "to": "0096_1hzjk7q.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0029_1jeso6i.jpeg",
+    "to": "0109_1hpk0r4.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0030_1je0lx3.jpeg",
+    "to": "0058_1is9ais.jpeg",
+    "value": 0.8977268934249878
+  },
+  {
+    "from": "0030_1je0lx3.jpeg",
+    "to": "0069_1ijrm00.jpeg",
+    "value": 0.8977268934249878
+  },
+  {
+    "from": "0030_1je0lx3.jpeg",
+    "to": "0073_1iglqe4.jpeg",
+    "value": 0.8873672485351562
+  },
+  {
+    "from": "0030_1je0lx3.jpeg",
+    "to": "0099_1hx9j9o.jpeg",
+    "value": 0.8009933233261108
+  },
+  {
+    "from": "0031_1jd88sv.jpeg",
+    "to": "0035_1ja7o6v.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0031_1jd88sv.jpeg",
+    "to": "0048_1j049zw.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0031_1jd88sv.jpeg",
+    "to": "0080_1iby8fx.png",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0033_1jbr0ql.jpeg",
+    "to": "0034_1jazkqj.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0033_1jbr0ql.jpeg",
+    "to": "0058_1is9ais.jpeg",
+    "value": 0.8396170139312744
+  },
+  {
+    "from": "0033_1jbr0ql.jpeg",
+    "to": "0069_1ijrm00.jpeg",
+    "value": 0.8396170139312744
+  },
+  {
+    "from": "0033_1jbr0ql.jpeg",
+    "to": "0073_1iglqe4.jpeg",
+    "value": 0.8283177018165588
+  },
+  {
+    "from": "0033_1jbr0ql.jpeg",
+    "to": "0099_1hx9j9o.jpeg",
+    "value": 0.8101553916931152
+  },
+  {
+    "from": "0033_1jbr0ql.jpeg",
+    "to": "0100_1hwgnjx.jpeg",
+    "value": 0.8044066429138184
+  },
+  {
+    "from": "0034_1jazkqj.jpeg",
+    "to": "0058_1is9ais.jpeg",
+    "value": 0.8396170139312744
+  },
+  {
+    "from": "0034_1jazkqj.jpeg",
+    "to": "0069_1ijrm00.jpeg",
+    "value": 0.8396170139312744
+  },
+  {
+    "from": "0034_1jazkqj.jpeg",
+    "to": "0073_1iglqe4.jpeg",
+    "value": 0.8283177018165588
+  },
+  {
+    "from": "0034_1jazkqj.jpeg",
+    "to": "0099_1hx9j9o.jpeg",
+    "value": 0.8101553916931152
+  },
+  {
+    "from": "0034_1jazkqj.jpeg",
+    "to": "0100_1hwgnjx.jpeg",
+    "value": 0.8044066429138184
+  },
+  {
+    "from": "0035_1ja7o6v.jpeg",
+    "to": "0048_1j049zw.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0035_1ja7o6v.jpeg",
+    "to": "0080_1iby8fx.png",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0036_1j9frkt.jpeg",
+    "to": "0038_1j7ucub.png",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0036_1j9frkt.jpeg",
+    "to": "0041_1j5k3po.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0036_1j9frkt.jpeg",
+    "to": "0049_1izcc2o.png",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0036_1j9frkt.jpeg",
+    "to": "0061_1ipy97k.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0036_1j9frkt.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0036_1j9frkt.jpeg",
+    "to": "0082_1iaap34.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0036_1j9frkt.jpeg",
+    "to": "0090_1i44ejz.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0036_1j9frkt.jpeg",
+    "to": "0096_1hzjk7q.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0036_1j9frkt.jpeg",
+    "to": "0109_1hpk0r4.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0041_1j5k3po.jpeg",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0049_1izcc2o.png",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0050_1iyk4ec.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0051_1ixriol.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0053_1iw6upu.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0054_1ivfhea.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0055_1iunfvk.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0056_1itv2ta.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0057_1it1zqy.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0059_1irgi1d.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0060_1iqp2ik.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0061_1ipy97k.jpeg",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0065_1imv7c1.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0072_1ihec5r.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0076_1if36o8.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0078_1idjoxg.png",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0082_1iaap34.jpeg",
+    "value": 0.8003124594688416
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8550373911857605
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0090_1i44ejz.jpeg",
+    "value": 0.8003124594688416
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0094_1i12rva.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0096_1hzjk7q.jpeg",
+    "value": 0.8003124594688416
+  },
+  {
+    "from": "0038_1j7ucub.png",
+    "to": "0109_1hpk0r4.jpeg",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0040_1j6e0sj.jpeg",
+    "to": "0058_1is9ais.jpeg",
+    "value": 0.8645878434181213
+  },
+  {
+    "from": "0040_1j6e0sj.jpeg",
+    "to": "0069_1ijrm00.jpeg",
+    "value": 0.8645878434181213
+  },
+  {
+    "from": "0040_1j6e0sj.jpeg",
+    "to": "0073_1iglqe4.jpeg",
+    "value": 0.8629773855209351
+  },
+  {
+    "from": "0040_1j6e0sj.jpeg",
+    "to": "0085_1i801kr.jpeg",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0040_1j6e0sj.jpeg",
+    "to": "0099_1hx9j9o.jpeg",
+    "value": 0.9920636415481567
+  },
+  {
+    "from": "0040_1j6e0sj.jpeg",
+    "to": "0100_1hwgnjx.jpeg",
+    "value": 0.8757725954055786
+  },
+  {
+    "from": "0040_1j6e0sj.jpeg",
+    "to": "0101_1hvo64l.jpeg",
+    "value": 0.8447230458259583
+  },
+  {
+    "from": "0041_1j5k3po.jpeg",
+    "to": "0049_1izcc2o.png",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0041_1j5k3po.jpeg",
+    "to": "0061_1ipy97k.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0041_1j5k3po.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0041_1j5k3po.jpeg",
+    "to": "0082_1iaap34.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0041_1j5k3po.jpeg",
+    "to": "0090_1i44ejz.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0041_1j5k3po.jpeg",
+    "to": "0096_1hzjk7q.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0041_1j5k3po.jpeg",
+    "to": "0109_1hpk0r4.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0044_1j37fgg.png",
+    "to": "0046_1j1njqz.png",
+    "value": 0.9107124209403992
+  },
+  {
+    "from": "0044_1j37fgg.png",
+    "to": "0077_1iebgz8.jpeg",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0044_1j37fgg.png",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8524677753448486
+  },
+  {
+    "from": "0044_1j37fgg.png",
+    "to": "0088_1i5mvxf.jpeg",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0044_1j37fgg.png",
+    "to": "0097_1hyssuc.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0044_1j37fgg.png",
+    "to": "0102_1huvo9b.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0044_1j37fgg.png",
+    "to": "0104_1htbaqc.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0044_1j37fgg.png",
+    "to": "0107_1hr023p.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0046_1j1njqz.png",
+    "to": "0077_1iebgz8.jpeg",
+    "value": 0.9107124209403992
+  },
+  {
+    "from": "0046_1j1njqz.png",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8120100498199463
+  },
+  {
+    "from": "0046_1j1njqz.png",
+    "to": "0088_1i5mvxf.jpeg",
+    "value": 0.9107124209403992
+  },
+  {
+    "from": "0046_1j1njqz.png",
+    "to": "0097_1hyssuc.png",
+    "value": 0.9107123613357544
+  },
+  {
+    "from": "0046_1j1njqz.png",
+    "to": "0102_1huvo9b.png",
+    "value": 0.9107123613357544
+  },
+  {
+    "from": "0046_1j1njqz.png",
+    "to": "0104_1htbaqc.png",
+    "value": 0.9107124209403992
+  },
+  {
+    "from": "0046_1j1njqz.png",
+    "to": "0106_1hrqg1k.jpeg",
+    "value": 0.8937314748764038
+  },
+  {
+    "from": "0046_1j1njqz.png",
+    "to": "0107_1hr023p.png",
+    "value": 0.9107124209403992
+  },
+  {
+    "from": "0048_1j049zw.jpeg",
+    "to": "0080_1iby8fx.png",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0049_1izcc2o.png",
+    "to": "0061_1ipy97k.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0049_1izcc2o.png",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0049_1izcc2o.png",
+    "to": "0082_1iaap34.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0049_1izcc2o.png",
+    "to": "0090_1i44ejz.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0049_1izcc2o.png",
+    "to": "0096_1hzjk7q.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0049_1izcc2o.png",
+    "to": "0109_1hpk0r4.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0051_1ixriol.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0052_1iwylen.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0053_1iw6upu.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0054_1ivfhea.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0055_1iunfvk.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0056_1itv2ta.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0057_1it1zqy.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0059_1irgi1d.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0060_1iqp2ik.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0065_1imv7c1.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723822832107544
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060877323150635
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0050_1iyk4ec.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0052_1iwylen.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0053_1iw6upu.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0054_1ivfhea.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0055_1iunfvk.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0056_1itv2ta.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0057_1it1zqy.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0059_1irgi1d.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0060_1iqp2ik.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0065_1imv7c1.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723822832107544
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060877323150635
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0051_1ixriol.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0053_1iw6upu.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0054_1ivfhea.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0055_1iunfvk.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0056_1itv2ta.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0057_1it1zqy.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0059_1irgi1d.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0060_1iqp2ik.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0065_1imv7c1.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0052_1iwylen.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 0.8153033256530762
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0054_1ivfhea.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0055_1iunfvk.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0056_1itv2ta.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0057_1it1zqy.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0059_1irgi1d.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0060_1iqp2ik.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0065_1imv7c1.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 1.0
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723819851875305
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060874938964844
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0053_1iw6upu.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0055_1iunfvk.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0056_1itv2ta.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0057_1it1zqy.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0059_1irgi1d.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0060_1iqp2ik.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0065_1imv7c1.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 1.0
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723819851875305
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060874938964844
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0054_1ivfhea.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0056_1itv2ta.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0057_1it1zqy.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0059_1irgi1d.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0060_1iqp2ik.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0065_1imv7c1.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 1.0
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723819851875305
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060874938964844
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0055_1iunfvk.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0057_1it1zqy.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0059_1irgi1d.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0060_1iqp2ik.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0065_1imv7c1.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 1.0
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723819851875305
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060874938964844
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0056_1itv2ta.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0057_1it1zqy.jpeg",
+    "to": "0059_1irgi1d.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0057_1it1zqy.jpeg",
+    "to": "0060_1iqp2ik.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0057_1it1zqy.jpeg",
+    "to": "0065_1imv7c1.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0057_1it1zqy.jpeg",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0057_1it1zqy.jpeg",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0057_1it1zqy.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 1.0
+  },
+  {
+    "from": "0057_1it1zqy.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0057_1it1zqy.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0057_1it1zqy.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0057_1it1zqy.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723819851875305
+  },
+  {
+    "from": "0057_1it1zqy.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060874938964844
+  },
+  {
+    "from": "0057_1it1zqy.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0057_1it1zqy.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0058_1is9ais.jpeg",
+    "to": "0069_1ijrm00.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0058_1is9ais.jpeg",
+    "to": "0073_1iglqe4.jpeg",
+    "value": 0.993284285068512
+  },
+  {
+    "from": "0058_1is9ais.jpeg",
+    "to": "0085_1i801kr.jpeg",
+    "value": 0.8645878434181213
+  },
+  {
+    "from": "0058_1is9ais.jpeg",
+    "to": "0099_1hx9j9o.jpeg",
+    "value": 0.8696105480194092
+  },
+  {
+    "from": "0059_1irgi1d.jpeg",
+    "to": "0060_1iqp2ik.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0059_1irgi1d.jpeg",
+    "to": "0065_1imv7c1.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0059_1irgi1d.jpeg",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0059_1irgi1d.jpeg",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0059_1irgi1d.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 1.0
+  },
+  {
+    "from": "0059_1irgi1d.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0059_1irgi1d.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0059_1irgi1d.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0059_1irgi1d.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723822832107544
+  },
+  {
+    "from": "0059_1irgi1d.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060877323150635
+  },
+  {
+    "from": "0059_1irgi1d.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0059_1irgi1d.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0060_1iqp2ik.jpeg",
+    "to": "0065_1imv7c1.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0060_1iqp2ik.jpeg",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0060_1iqp2ik.jpeg",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0060_1iqp2ik.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 1.0
+  },
+  {
+    "from": "0060_1iqp2ik.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0060_1iqp2ik.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0060_1iqp2ik.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0060_1iqp2ik.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723822832107544
+  },
+  {
+    "from": "0060_1iqp2ik.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060877323150635
+  },
+  {
+    "from": "0060_1iqp2ik.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0060_1iqp2ik.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0061_1ipy97k.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0061_1ipy97k.jpeg",
+    "to": "0082_1iaap34.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0061_1ipy97k.jpeg",
+    "to": "0090_1i44ejz.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0061_1ipy97k.jpeg",
+    "to": "0096_1hzjk7q.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0061_1ipy97k.jpeg",
+    "to": "0109_1hpk0r4.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0062_1ip7aqr.jpeg",
+    "to": "0063_1iofrsw.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0062_1ip7aqr.jpeg",
+    "to": "0066_1im2osq.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0062_1ip7aqr.jpeg",
+    "to": "0105_1hsj4vn.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0063_1iofrsw.jpeg",
+    "to": "0066_1im2osq.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0063_1iofrsw.jpeg",
+    "to": "0105_1hsj4vn.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0064_1innlws.jpeg",
+    "to": "0071_1ii6pv2.jpeg",
+    "value": 0.8194952011108398
+  },
+  {
+    "from": "0065_1imv7c1.jpeg",
+    "to": "0068_1ikk13a.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0065_1imv7c1.jpeg",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0065_1imv7c1.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 1.0
+  },
+  {
+    "from": "0065_1imv7c1.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0065_1imv7c1.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0065_1imv7c1.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0065_1imv7c1.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723819851875305
+  },
+  {
+    "from": "0065_1imv7c1.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060874938964844
+  },
+  {
+    "from": "0065_1imv7c1.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0065_1imv7c1.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0066_1im2osq.jpeg",
+    "to": "0105_1hsj4vn.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0067_1ilbity.jpeg",
+    "to": "0108_1hqbnko.png",
+    "value": 0.8474050760269165
+  },
+  {
+    "from": "0068_1ikk13a.jpeg",
+    "to": "0070_1iiz4f3.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0068_1ikk13a.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 1.0
+  },
+  {
+    "from": "0068_1ikk13a.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0068_1ikk13a.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0068_1ikk13a.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0068_1ikk13a.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723819851875305
+  },
+  {
+    "from": "0068_1ikk13a.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060874938964844
+  },
+  {
+    "from": "0068_1ikk13a.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0068_1ikk13a.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0069_1ijrm00.jpeg",
+    "to": "0073_1iglqe4.jpeg",
+    "value": 0.993284285068512
+  },
+  {
+    "from": "0069_1ijrm00.jpeg",
+    "to": "0085_1i801kr.jpeg",
+    "value": 0.8645879626274109
+  },
+  {
+    "from": "0069_1ijrm00.jpeg",
+    "to": "0099_1hx9j9o.jpeg",
+    "value": 0.8696105480194092
+  },
+  {
+    "from": "0070_1iiz4f3.jpeg",
+    "to": "0072_1ihec5r.png",
+    "value": 1.0
+  },
+  {
+    "from": "0070_1iiz4f3.jpeg",
+    "to": "0076_1if36o8.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0070_1iiz4f3.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0070_1iiz4f3.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0070_1iiz4f3.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723822832107544
+  },
+  {
+    "from": "0070_1iiz4f3.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060877323150635
+  },
+  {
+    "from": "0070_1iiz4f3.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0070_1iiz4f3.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0072_1ihec5r.png",
+    "to": "0076_1if36o8.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0072_1ihec5r.png",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0072_1ihec5r.png",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0072_1ihec5r.png",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723822832107544
+  },
+  {
+    "from": "0072_1ihec5r.png",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060877323150635
+  },
+  {
+    "from": "0072_1ihec5r.png",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0072_1ihec5r.png",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0073_1iglqe4.jpeg",
+    "to": "0085_1i801kr.jpeg",
+    "value": 0.8629773855209351
+  },
+  {
+    "from": "0073_1iglqe4.jpeg",
+    "to": "0099_1hx9j9o.jpeg",
+    "value": 0.8593544363975525
+  },
+  {
+    "from": "0075_1if8qvm.png",
+    "to": "0079_1icqgd1.png",
+    "value": 0.827628493309021
+  },
+  {
+    "from": "0076_1if36o8.jpeg",
+    "to": "0078_1idjoxg.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0076_1if36o8.jpeg",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0076_1if36o8.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723819851875305
+  },
+  {
+    "from": "0076_1if36o8.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060874938964844
+  },
+  {
+    "from": "0076_1if36o8.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0076_1if36o8.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0077_1iebgz8.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8524677753448486
+  },
+  {
+    "from": "0077_1iebgz8.jpeg",
+    "to": "0088_1i5mvxf.jpeg",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0077_1iebgz8.jpeg",
+    "to": "0097_1hyssuc.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0077_1iebgz8.jpeg",
+    "to": "0102_1huvo9b.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0077_1iebgz8.jpeg",
+    "to": "0104_1htbaqc.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0077_1iebgz8.jpeg",
+    "to": "0107_1hr023p.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0078_1idjoxg.png",
+    "to": "0081_1ib4woo.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0078_1idjoxg.png",
+    "to": "0082_1iaap34.jpeg",
+    "value": 0.8003124594688416
+  },
+  {
+    "from": "0078_1idjoxg.png",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8550373911857605
+  },
+  {
+    "from": "0078_1idjoxg.png",
+    "to": "0090_1i44ejz.jpeg",
+    "value": 0.8003124594688416
+  },
+  {
+    "from": "0078_1idjoxg.png",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0078_1idjoxg.png",
+    "to": "0094_1i12rva.png",
+    "value": 0.8459889888763428
+  },
+  {
+    "from": "0078_1idjoxg.png",
+    "to": "0096_1hzjk7q.jpeg",
+    "value": 0.8003124594688416
+  },
+  {
+    "from": "0078_1idjoxg.png",
+    "to": "0109_1hpk0r4.jpeg",
+    "value": 0.8003126382827759
+  },
+  {
+    "from": "0081_1ib4woo.jpeg",
+    "to": "0083_1i9jsyx.jpeg",
+    "value": 0.8723822832107544
+  },
+  {
+    "from": "0081_1ib4woo.jpeg",
+    "to": "0086_1i77rxp.jpeg",
+    "value": 0.8060877323150635
+  },
+  {
+    "from": "0081_1ib4woo.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 1.0
+  },
+  {
+    "from": "0081_1ib4woo.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0082_1iaap34.jpeg",
+    "to": "0090_1i44ejz.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0082_1iaap34.jpeg",
+    "to": "0096_1hzjk7q.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0082_1iaap34.jpeg",
+    "to": "0109_1hpk0r4.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0083_1i9jsyx.jpeg",
+    "to": "0088_1i5mvxf.jpeg",
+    "value": 0.8524677753448486
+  },
+  {
+    "from": "0083_1i9jsyx.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 0.8723822832107544
+  },
+  {
+    "from": "0083_1i9jsyx.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 0.8723822832107544
+  },
+  {
+    "from": "0083_1i9jsyx.jpeg",
+    "to": "0097_1hyssuc.png",
+    "value": 0.8524677753448486
+  },
+  {
+    "from": "0083_1i9jsyx.jpeg",
+    "to": "0102_1huvo9b.png",
+    "value": 0.8524677753448486
+  },
+  {
+    "from": "0083_1i9jsyx.jpeg",
+    "to": "0104_1htbaqc.png",
+    "value": 0.8524677753448486
+  },
+  {
+    "from": "0083_1i9jsyx.jpeg",
+    "to": "0107_1hr023p.png",
+    "value": 0.8524677753448486
+  },
+  {
+    "from": "0085_1i801kr.jpeg",
+    "to": "0099_1hx9j9o.jpeg",
+    "value": 0.9920636415481567
+  },
+  {
+    "from": "0085_1i801kr.jpeg",
+    "to": "0100_1hwgnjx.jpeg",
+    "value": 0.8757725954055786
+  },
+  {
+    "from": "0085_1i801kr.jpeg",
+    "to": "0101_1hvo64l.jpeg",
+    "value": 0.8447230458259583
+  },
+  {
+    "from": "0086_1i77rxp.jpeg",
+    "to": "0093_1i1u6o0.jpeg",
+    "value": 0.8060877323150635
+  },
+  {
+    "from": "0086_1i77rxp.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 0.8060877323150635
+  },
+  {
+    "from": "0086_1i77rxp.jpeg",
+    "to": "0103_1hu3jkp.jpeg",
+    "value": 0.8385545611381531
+  },
+  {
+    "from": "0087_1i6fabf.png",
+    "to": "0095_1i0ap55.jpeg",
+    "value": 0.9999998807907104
+  },
+  {
+    "from": "0087_1i6fabf.png",
+    "to": "0098_1hy14ib.png",
+    "value": 0.9999998807907104
+  },
+  {
+    "from": "0088_1i5mvxf.jpeg",
+    "to": "0097_1hyssuc.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0088_1i5mvxf.jpeg",
+    "to": "0102_1huvo9b.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0088_1i5mvxf.jpeg",
+    "to": "0104_1htbaqc.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0088_1i5mvxf.jpeg",
+    "to": "0107_1hr023p.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0090_1i44ejz.jpeg",
+    "to": "0096_1hzjk7q.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0090_1i44ejz.jpeg",
+    "to": "0109_1hpk0r4.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0093_1i1u6o0.jpeg",
+    "to": "0094_1i12rva.png",
+    "value": 1.0
+  },
+  {
+    "from": "0095_1i0ap55.jpeg",
+    "to": "0098_1hy14ib.png",
+    "value": 0.9999998807907104
+  },
+  {
+    "from": "0096_1hzjk7q.jpeg",
+    "to": "0109_1hpk0r4.jpeg",
+    "value": 1.0000001192092896
+  },
+  {
+    "from": "0097_1hyssuc.png",
+    "to": "0102_1huvo9b.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0097_1hyssuc.png",
+    "to": "0104_1htbaqc.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0097_1hyssuc.png",
+    "to": "0107_1hr023p.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0099_1hx9j9o.jpeg",
+    "to": "0100_1hwgnjx.jpeg",
+    "value": 0.8939405679702759
+  },
+  {
+    "from": "0099_1hx9j9o.jpeg",
+    "to": "0101_1hvo64l.jpeg",
+    "value": 0.8716425895690918
+  },
+  {
+    "from": "0100_1hwgnjx.jpeg",
+    "to": "0101_1hvo64l.jpeg",
+    "value": 0.8896327018737793
+  },
+  {
+    "from": "0102_1huvo9b.png",
+    "to": "0104_1htbaqc.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0102_1huvo9b.png",
+    "to": "0107_1hr023p.png",
+    "value": 1.000000238418579
+  },
+  {
+    "from": "0104_1htbaqc.png",
+    "to": "0107_1hr023p.png",
+    "value": 1.000000238418579
+  }
+]
