@@ -40,11 +40,11 @@
         border: 1px solid #808074;
         border-radius: 3px;
         padding: 10px;
-        max-width: 680px; /* Wider popup */
+        max-width: 680px;
         box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
         z-index: 3;
         color: #000;
-        font-size: 13px;
+        font-size: 12px;
         word-wrap: break-word;
         overflow-wrap: break-word;
       }
@@ -103,11 +103,11 @@
           if (!nodeData) return;
 
           popup.innerHTML = `
-            <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 16px; max-width: 640px;">
-              <div style="height: 100%; display: flex; align-items: center; justify-content: center; min-height: 180px;">
-                <img src="${nodeData.image}" style="max-width: 320px; max-height: 240px; border-radius: 4px; object-fit: contain;" />
+            <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 12px; max-width: 640px;">
+              <div style="height: 100%; display: flex; align-items: center; justify-content: center; min-height: 140px;">
+                <img src="${nodeData.image}" style="max-width: 180px; max-height: 120px; border-radius: 4px; object-fit: contain;" />
               </div>
-              <div style="font-size: 16px; line-height: 1.4; white-space: normal; word-wrap: break-word; overflow-wrap: break-word;">
+              <div style="font-size: 12px; line-height: 1.3; white-space: normal; word-wrap: break-word; overflow-wrap: break-word;">
                 <b>Creator:</b> ${nodeData.creator}<br>
                 <b>Date:</b> ${nodeData.date}<br>
                 <b>Description:</b> ${nodeData.description}<br>
